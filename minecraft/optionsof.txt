@@ -41,10 +41,10 @@ ofSky:true
 ofStars:true
 ofSunMoon:true
 ofChunkUpdates:1
-ofChunkLoading:0
+ofChunkLoading:2
 ofChunkUpdatesDynamic:false
 ofTime:0
-ofClearWater:false
+ofClearWater:true
 ofDepthFog:true
 ofAaLevel:0
 ofAfLevel:1
@@ -56,5 +56,5 @@ ofSmoothBiomes:true
 ofCustomFonts:true
 ofCustomColors:true
 ofShowCapes:true
-ofNaturalTextures:false
+ofNaturalTextures:true
 ofFullscreenMode:Default
