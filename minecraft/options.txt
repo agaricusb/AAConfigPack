@@ -1,0 +1,69 @@
+music:0.7605634
+sound:1.0
+invertYMouse:false
+mouseSensitivity:0.5
+fov:1.0
+gamma:1.0
+viewDistance:0
+guiScale:2
+particles:0
+bobView:true
+anaglyph3d:false
+advancedOpengl:false
+fpsLimit:1
+difficulty:3
+fancyGraphics:true
+ao:true
+clouds:true
+skin:Default
+lastServer:
+lang:en_US
+chatVisibility:0
+chatColors:true
+chatLinks:true
+chatLinksPrompt:true
+chatOpacity:1.0
+serverTextures:true
+snooperEnabled:true
+fullscreen:false
+enableVsync:true
+hideServerAddress:false
+advancedItemTooltips:false
+pauseOnLostFocus:true
+showCape:true
+touchscreen:false
+overrideWidth:0
+overrideHeight:0
+heldItemTooltips:true
+key_key.attack:-100
+key_key.use:-99
+key_key.forward:17
+key_key.left:30
+key_key.back:31
+key_key.right:32
+key_key.jump:57
+key_key.sneak:42
+key_key.drop:16
+key_key.inventory:18
+key_key.chat:20
+key_key.playerlist:15
+key_key.pickItem:-98
+key_Zoom:29
+key_key.command:53
+key_ALT Key:56
+key_Boost Key:29
+key_Mode Switch Key:37
+key_Side Inventory Key:46
+key_Bag of Holding:41
+key_Pocket Crafting Table:36
+key_Exo1:79
+key_Exo2:80
+key_Exo3:81
+key_Shield Toggle:45
+key_(TC) Horn:35
+key_(TC) Invent:19
+key_(TC) Up:44
+key_(TC) Down:45
+key_(TC) Idle:46
+key_(TC) Furnace:33
+key_Gravi Fly Key:33
