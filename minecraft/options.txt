@@ -62,10 +62,10 @@ key_Exo3:81
 key_Shield Toggle:45
 key_(TC) Horn:35
 key_(TC) Invent:19
-key_(TC) Up:26
-key_(TC) Down:27
-key_(TC) Idle:43
-key_(TC) Furnace:11
+key_(TC) Up:44
+key_(TC) Down:45
+key_(TC) Idle:46
+key_(TC) Furnace:33
 key_Accelerate Key:17
 key_Decelerate Key:31
 key_Left Key:30
