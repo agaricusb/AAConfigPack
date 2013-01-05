@@ -54,6 +54,8 @@ key_ALT Key:56
 key_Boost Key:29
 key_Mode Switch Key:37
 key_Side Inventory Key:46
+key_MoCreatures Jump:57
+key_MoCreatures Dive:33
 key_Bag of Holding:41
 key_Pocket Crafting Table:36
 key_Exo1:79
