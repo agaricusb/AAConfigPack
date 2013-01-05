@@ -66,4 +66,17 @@ key_(TC) Up:26
 key_(TC) Down:27
 key_(TC) Idle:43
 key_(TC) Furnace:11
+key_Accelerate Key:17
+key_Decelerate Key:31
+key_Left Key:30
+key_Right Key:32
+key_Up Key:57
+key_Down key:42
+key_Exit Key:18
+key_Inventory key:19
+key_Bomb Key:47
+key_Gun Key:29
+key_Control Switch key:46
+key_Teams Menu Key:34
+key_Teams Scores Key:35
 key_Gravi Fly Key:33
