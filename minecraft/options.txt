@@ -60,6 +60,7 @@ key_Exo1:79
 key_Exo2:80
 key_Exo3:81
 key_Shield Toggle:45
+key_Change OneWayBlock face:43
 key_(TC) Horn:35
 key_(TC) Invent:19
 key_(TC) Up:44
