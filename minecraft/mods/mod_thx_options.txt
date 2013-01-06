@@ -1,0 +1,24 @@
+#Added default properties
+#Sat Jan 05 19:08:17 PST 2013
+key_auto_level=K
+key_rotate_right=H
+key_back=S
+key_exit=Y
+enable_rotor=true
+key_hud_mode=C
+key_create_map=O
+enable_look_yaw=true
+enable_logging=false
+key_rotate_left=G
+key_lock_alt=P
+key_right=D
+key_left=A
+key_look_pitch=L
+key_descend=X
+key_rocket_reload=I
+key_ascend=SPACE
+enable_auto_throttle_zero=true
+rotor_speed_percent=70
+key_forward=W
+key_look_back=U
+enable_auto_level=true
