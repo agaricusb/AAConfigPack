@@ -80,4 +80,5 @@ key_Gun Key:29
 key_Control Switch key:46
 key_Teams Menu Key:34
 key_Teams Scores Key:35
+key_Coral Reef GUI:46
 key_Gravi Fly Key:33
