@@ -43,6 +43,8 @@ key_key.back:31
 key_key.right:32
 key_key.jump:57
 key_key.sneak:42
+key_key.climb:29
+key_key.sprint:15
 key_key.drop:16
 key_key.inventory:18
 key_key.chat:20
