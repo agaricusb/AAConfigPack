@@ -1,10 +1,10 @@
 #CoralReef Settings
-#Sat Jan 05 15:53:07 PST 2013
-land=false
+#Sun Jan 06 12:49:19 PST 2013
 spikyenabled=true
+land=false
 coralgen=true
-oceanonly=true
 enablebubbles=true
+oceanonly=true
 classic=false
 enablegrow=false
 avgsize=1
