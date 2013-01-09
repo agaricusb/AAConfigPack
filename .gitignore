@@ -2,6 +2,9 @@
 *.zip
 *.dylib
 *.jnilib
+*.log
 minecraft/saves
 minecraft/screenshots
 minecraft/stats
+minecraft/resources
+minecraft/miscperipherals/rom
