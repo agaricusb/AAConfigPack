@@ -1,0 +1,7 @@
+*.jar
+*.zip
+*.dylib
+*.jnilib
+minecraft/saves
+minecraft/screenshots
+minecraft/stats
