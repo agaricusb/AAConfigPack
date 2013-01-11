@@ -1,0 +1,1405 @@
+[
+    {
+        "filename": "minecraft/coremods/CodeChickenCore 0.7.0.2.jar", 
+        "info": [], 
+        "sha256": "33de766675dd3dfcf4bc72de89c9f9084ff146f9b751cebb61767fd986277640"
+    }, 
+    {
+        "filename": "minecraft/coremods/NotEnoughItems 1.4.5.0.jar", 
+        "info": [], 
+        "sha256": "52dc261fe1e526956be1cad4cd7e5f3d58c54a33c848fbdec8d7ad89c38abd10"
+    }, 
+    {
+        "filename": "minecraft/mods/ChickenChunks 1.2.1.1.jar", 
+        "info": [], 
+        "sha256": "ced11c57aad4e0eafc358200c6fc0aed88b973880d1cf19bbb386f9d7fd2548e"
+    }, 
+    {
+        "filename": "minecraft/mods/ComputerCraft1.481.zip", 
+        "info": [
+            {
+                "authors": [
+                    "dan200", 
+                    "Cloudy"
+                ], 
+                "credits": "Type 'help credits' on an in-game computer", 
+                "description": "ComputerCraft adds Computers, Programming and Robotics to Minecraft.", 
+                "logoFile": "dan200/computer/client/logo.png", 
+                "modid": "ComputerCraft", 
+                "name": "ComputerCraft", 
+                "parent": "", 
+                "screenshots": [], 
+                "updateUrl": "http://www.minecraftforum.net/topic/892282-125-computercraft-14-rise-of-the-machines/", 
+                "url": "http://www.computercraft.info", 
+                "version": "1.481"
+            }, 
+            {
+                "authors": [
+                    "dan200", 
+                    "Cloudy"
+                ], 
+                "credits": "Type 'help credits' on an in-game computer", 
+                "description": "ComputerCraft adds Computers, Programming and Robotics to Minecraft.", 
+                "logoFile": "dan200/computer/client/logo.png", 
+                "modid": "CCTurtle", 
+                "name": "ComputerCraft Turtles", 
+                "parent": "ComputerCraft", 
+                "screenshots": [], 
+                "updateUrl": "http://www.minecraftforum.net/topic/892282-125-computercraft-14-rise-of-the-machines/", 
+                "url": "http://www.computercraft.info", 
+                "version": "1.481"
+            }
+        ], 
+        "sha256": "0b46ef44170aba051bed4c0cf5bdb2fec3aa1791a193e98acf2c40cd51cd156d"
+    }, 
+    {
+        "filename": "minecraft/mods/EnderStorage 1.3.1.1.jar", 
+        "info": [], 
+        "sha256": "963abe6cd3d5cb4e42317054185af8e19733a7d1aad992304eb48e777735e72f"
+    }, 
+    {
+        "filename": "minecraft/mods/ExtrabiomesXL-universal-1.4.7-3.8.0.jar", 
+        "info": [
+            {
+                "authors": [
+                    "ScottKillen", 
+                    "MisterFiber", 
+                    "TDWP_FTP"
+                ], 
+                "credits": "Concept and original mod created by MisterFiber. Some artwork courtesy of: bonemouse and Delocuro. Code contributors: Eloraam, mistaqur, SirSengir", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "ExtraBiomesXL adds new aesthetic content that greatly enhances Minecraft's landscapes and exploration.", 
+                "logoFile": "/extrabiomes/eb-logo.png", 
+                "mcversion": "1.4.7", 
+                "modid": "ExtrabiomesXL", 
+                "name": "ExtrabiomesXL", 
+                "parent": "", 
+                "screenshots": [], 
+                "updateUrl": "", 
+                "url": "http://www.minecraftforum.net/topic/1090288-", 
+                "version": "3.8.0"
+            }
+        ], 
+        "sha256": "66ff3f66fa037e71f2621446b93cfc503bdd047858268d1e03cce6fc10974077"
+    }, 
+    {
+        "filename": "minecraft/mods/Factorization-0.7.10.jar", 
+        "info": [
+            {
+                "authors": [
+                    "neptunepink"
+                ], 
+                "credits": "OvermindDL1", 
+                "dependencies": [], 
+                "description": "Auto-crafting, ore processing, barrels, and other toys", 
+                "mcversion": "1.3.2", 
+                "modid": "factorization", 
+                "name": "Factorization", 
+                "parent": "", 
+                "screenshots": [], 
+                "updateUrl": "", 
+                "url": "http://minecraftforum.net/topic/1351802-", 
+                "version": "0.7.10"
+            }
+        ], 
+        "sha256": "d7fc8a488dbd0feb72610f42107d970fd5c2a4f00870565edc9b9e48f997502f"
+    }, 
+    {
+        "filename": "minecraft/mods/GravityGun1.4.6v1.zip", 
+        "info": [
+            {
+                "authors": [
+                    "iChun"
+                ], 
+                "credits": "", 
+                "dependancies": [
+                    "Forge"
+                ], 
+                "description": "Adds the HL2 Gravity Gun to Minecraft", 
+                "logoFile": "", 
+                "modid": "GraviGun", 
+                "name": "GraviGun", 
+                "parent": "", 
+                "screenshots": [], 
+                "updateUrl": "", 
+                "url": "http://ichun.us/mods/gravity-gun/", 
+                "version": "1.4.6v1"
+            }
+        ], 
+        "sha256": "5f67954ebcedcb299e664925e7ab63733c89a155b3a40ff71e3db10cfe41405b"
+    }, 
+    {
+        "filename": "minecraft/mods/IC2NuclearControl-1.4.5.zip", 
+        "info": [
+            {
+                "authors": [
+                    "Shedar"
+                ], 
+                "credits": "Authored by Shedar, based on an original idea by Nargon and Noosius", 
+                "dependencies": [
+                    "IC2"
+                ], 
+                "description": "Nuclear Control, an Industrial Craft 2 addon that allows you to build efficient monitoring and notification system for your nuclear reactor. Also you can use Howler Alarm and Industrial Alarm in any case when you want industrial-style notification/alarming system.", 
+                "logoFile": "", 
+                "mcversion": "1.4.6", 
+                "modid": "IC2NuclearControl", 
+                "name": "Nuclear Control", 
+                "parent": "", 
+                "screenshots": [], 
+                "updateUrl": "http://bqt.me/mc/nuclear-control-version.txt", 
+                "url": "http://forum.industrial-craft.net/index.php?page=Thread&threadID=5915", 
+                "version": "1.4.5"
+            }
+        ], 
+        "sha256": "31203516e6796d645771b9edbd394f762ee4cbca4ae6dc4cb0a83b5f72d75325"
+    }, 
+    {
+        "filename": "minecraft/mods/InventoryTweaks_v1.49_(1.4.6).zip", 
+        "info": [], 
+        "sha256": "1cea9fbffabe86c4819bb995ab9aa0965a0793f8a56b21cea36877188cc14049"
+    }, 
+    {
+        "filename": "minecraft/mods/ModularForceFieldSystemV2.2.8.2.14.zip", 
+        "info": [
+            {
+                "authors": [
+                    "Thunderdark,Lightone as Main Bughunter,mistaqur for NEI Plugin"
+                ], 
+                "credits": "By Thunderdark,Matchlighter,Lightone,mistaqur", 
+                "dependencies": [
+                    "mod_IC2"
+                ], 
+                "description": "This is a complete re-write of my Modular Force Field System Mod.I changed the whole concept to an item upgrade system (like the IC2 Overclockers, Storage Upgrades, and Transformer Upgrades) instead of multiple blocks.", 
+                "logoFile": "", 
+                "mcversion": "1.4.6", 
+                "modid": "ModularForceFieldSystem", 
+                "name": "Modular ForceField System V2", 
+                "parent": "", 
+                "screenshots": [], 
+                "updateUrl": "", 
+                "url": "http://forum.industrial-craft.net/index.php?page=Thread&postID=8063#post8063", 
+                "version": "2.2.8.2.14"
+            }
+        ], 
+        "sha256": "cf86d229a9e03fe9ead9e499099faa6f59cc145a120a64a127b6a819fc3905ba"
+    }, 
+    {
+        "filename": "minecraft/mods/NEIPlugins-1.0.4.1.jar", 
+        "info": [], 
+        "sha256": "26960579866656c356ea07cf3b4bdf4ec60ab2c11b7a89684a6b855ff2ffa882"
+    }, 
+    {
+        "filename": "minecraft/mods/NEI_RedPowerPlugin 1.4.3.jar", 
+        "info": [], 
+        "sha256": "83cd951721633652508cf75457773290eeedc4337eb640b996459ed998427df3"
+    }, 
+    {
+        "filename": "minecraft/mods/OmniTools-2.2.5.zip", 
+        "info": [
+            {
+                "authors": [
+                    "KingLemmingCoFH", 
+                    "Cynycal"
+                ], 
+                "credits": "Team CoFH", 
+                "dependencies": [
+                    "MinecraftForge"
+                ], 
+                "description": "OmniTools mod! OmniWrench and Forge Lexicon; compress your toolkit and your ore stash!", 
+                "logoFile": "", 
+                "mcversion": "1.4.6", 
+                "modid": "OmniTools", 
+                "name": "OmniTools", 
+                "parent": "", 
+                "screenshots": [], 
+                "updateUrl": "", 
+                "url": "http://thermalexpansion.wikispaces.com", 
+                "version": "2.2.5"
+            }
+        ], 
+        "sha256": "4b76ad36b23e814a523605b66999015de4bf9e29af6de6a97b6cd78db168f281"
+    }, 
+    {
+        "filename": "minecraft/mods/PortalGun1.4.7v2.zip", 
+        "info": [
+            {
+                "authors": [
+                    "iChun"
+                ], 
+                "credits": "", 
+                "dependancies": [
+                    "Forge"
+                ], 
+                "description": "Add the portal gun and many other portal elements into Minecraft.", 
+                "logoFile": "portal_logo.png", 
+                "modid": "PortalGun", 
+                "name": "Portal Gun", 
+                "parent": "", 
+                "screenshots": [], 
+                "updateUrl": "", 
+                "url": "http://www.minecraftforum.net/topic/199391-/", 
+                "version": "1.4.7v2"
+            }
+        ], 
+        "sha256": "a1c3462a11d600d70f6d53d6d7f617d7a27d869c31f2904d374bfcb1e6c0af70"
+    }, 
+    {
+        "filename": "minecraft/mods/Railcraft_1.4.6-6.13.1.0.zip", 
+        "info": [
+            {
+                "authors": [
+                    "CovertJaguar"
+                ], 
+                "credits": "Created by CovertJaguar", 
+                "dependencies": [], 
+                "description": "Redefine your rails", 
+                "logoFile": "/railcraft_logo.png", 
+                "mcversion": "1.4.6", 
+                "modid": "Railcraft", 
+                "name": "Railcraft", 
+                "parent": "", 
+                "screenshots": [], 
+                "updateUrl": "", 
+                "url": "http://railcraft.wikispaces.com/", 
+                "version": "6.13.1.0"
+            }
+        ], 
+        "sha256": "ed5a57c8c01f736d14f1d7ad379e50f62a1bcd03bc31b31569176db1bce48629"
+    }, 
+    {
+        "filename": "minecraft/mods/RedPowerCompat-2.0pr6.zip", 
+        "info": [
+            {
+                "authors": [
+                    "Eloraam"
+                ], 
+                "credits": "By Eloraam", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Power your world, comrade!", 
+                "logoFile": "/eloraam/base/rpbanner.png", 
+                "modid": "RedPowerCore", 
+                "name": "RedPower", 
+                "url": "http://www.eloraam.com/", 
+                "version": "2.0 Prerelease 6"
+            }, 
+            {
+                "authors": [
+                    "Eloraam"
+                ], 
+                "credits": "By Eloraam", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Power your world, comrade! (Core items)", 
+                "logoFile": "/eloraam/base/rpbanner.png", 
+                "modid": "RedPowerBase", 
+                "name": "RP Base", 
+                "parent": "RedPowerCore", 
+                "url": "http://www.eloraam.com/", 
+                "version": ""
+            }, 
+            {
+                "authors": [
+                    "Eloraam"
+                ], 
+                "credits": "By Eloraam", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Power your world, comrade! (Wires)", 
+                "logoFile": "/eloraam/base/rpbanner.png", 
+                "modid": "RedPowerWiring", 
+                "name": "RP Wiring", 
+                "parent": "RedPowerCore", 
+                "url": "http://www.eloraam.com/", 
+                "version": ""
+            }, 
+            {
+                "authors": [
+                    "Eloraam"
+                ], 
+                "credits": "By Eloraam", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Power your world, comrade! (Logic Gates)", 
+                "logoFile": "/eloraam/base/rpbanner.png", 
+                "modid": "RedPowerLogic", 
+                "name": "RP Logic", 
+                "parent": "RedPowerCore", 
+                "url": "http://www.eloraam.com/", 
+                "version": ""
+            }, 
+            {
+                "authors": [
+                    "Eloraam"
+                ], 
+                "credits": "By Eloraam", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Power your world, comrade! (Lighting)", 
+                "logoFile": "/eloraam/base/rpbanner.png", 
+                "modid": "RedPowerLighting", 
+                "name": "RP Lighting", 
+                "parent": "RedPowerCore", 
+                "url": "http://www.eloraam.com/", 
+                "version": ""
+            }, 
+            {
+                "authors": [
+                    "Eloraam"
+                ], 
+                "credits": "By Eloraam", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Power your world, comrade! (World Gen)", 
+                "logoFile": "/eloraam/base/rpbanner.png", 
+                "modid": "RedPowerWorld", 
+                "name": "RP World", 
+                "parent": "RedPowerCore", 
+                "url": "http://www.eloraam.com/", 
+                "version": ""
+            }, 
+            {
+                "authors": [
+                    "Eloraam"
+                ], 
+                "credits": "By Eloraam", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Power your world, comrade! (Machines)", 
+                "logoFile": "/eloraam/base/rpbanner.png", 
+                "modid": "RedPowerMachine", 
+                "name": "RP Machine", 
+                "parent": "RedPowerCore", 
+                "url": "http://www.eloraam.com/", 
+                "version": ""
+            }, 
+            {
+                "authors": [
+                    "Eloraam"
+                ], 
+                "credits": "By Eloraam", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Power your world, comrade! (Computers)", 
+                "logoFile": "/eloraam/base/rpbanner.png", 
+                "modid": "RedPowerControl", 
+                "name": "RP Control", 
+                "parent": "RedPowerCore", 
+                "url": "http://www.eloraam.com/", 
+                "version": ""
+            }, 
+            {
+                "authors": [
+                    "Eloraam"
+                ], 
+                "credits": "By Eloraam", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Power your world, comrade! (Compatibility)", 
+                "logoFile": "/eloraam/base/rpbanner.png", 
+                "modid": "RedPowerCompat", 
+                "name": "RP Compat", 
+                "parent": "RedPowerCore", 
+                "url": "http://www.eloraam.com/", 
+                "version": ""
+            }
+        ], 
+        "sha256": "123a97ce6081a71b4badd9513774efa2a018df514760af3b9ff77f3e78d9a3f5"
+    }, 
+    {
+        "filename": "minecraft/mods/RedPowerCore-2.0pr6.zip", 
+        "info": [
+            {
+                "authors": [
+                    "Eloraam"
+                ], 
+                "credits": "By Eloraam", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Power your world, comrade!", 
+                "logoFile": "/eloraam/base/rpbanner.png", 
+                "modid": "RedPowerCore", 
+                "name": "RedPower", 
+                "url": "http://www.eloraam.com/", 
+                "version": "2.0 Prerelease 6"
+            }, 
+            {
+                "authors": [
+                    "Eloraam"
+                ], 
+                "credits": "By Eloraam", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Power your world, comrade! (Core items)", 
+                "logoFile": "/eloraam/base/rpbanner.png", 
+                "modid": "RedPowerBase", 
+                "name": "RP Base", 
+                "parent": "RedPowerCore", 
+                "url": "http://www.eloraam.com/", 
+                "version": ""
+            }, 
+            {
+                "authors": [
+                    "Eloraam"
+                ], 
+                "credits": "By Eloraam", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Power your world, comrade! (Wires)", 
+                "logoFile": "/eloraam/base/rpbanner.png", 
+                "modid": "RedPowerWiring", 
+                "name": "RP Wiring", 
+                "parent": "RedPowerCore", 
+                "url": "http://www.eloraam.com/", 
+                "version": ""
+            }, 
+            {
+                "authors": [
+                    "Eloraam"
+                ], 
+                "credits": "By Eloraam", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Power your world, comrade! (Logic Gates)", 
+                "logoFile": "/eloraam/base/rpbanner.png", 
+                "modid": "RedPowerLogic", 
+                "name": "RP Logic", 
+                "parent": "RedPowerCore", 
+                "url": "http://www.eloraam.com/", 
+                "version": ""
+            }, 
+            {
+                "authors": [
+                    "Eloraam"
+                ], 
+                "credits": "By Eloraam", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Power your world, comrade! (Lighting)", 
+                "logoFile": "/eloraam/base/rpbanner.png", 
+                "modid": "RedPowerLighting", 
+                "name": "RP Lighting", 
+                "parent": "RedPowerCore", 
+                "url": "http://www.eloraam.com/", 
+                "version": ""
+            }, 
+            {
+                "authors": [
+                    "Eloraam"
+                ], 
+                "credits": "By Eloraam", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Power your world, comrade! (World Gen)", 
+                "logoFile": "/eloraam/base/rpbanner.png", 
+                "modid": "RedPowerWorld", 
+                "name": "RP World", 
+                "parent": "RedPowerCore", 
+                "url": "http://www.eloraam.com/", 
+                "version": ""
+            }, 
+            {
+                "authors": [
+                    "Eloraam"
+                ], 
+                "credits": "By Eloraam", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Power your world, comrade! (Machines)", 
+                "logoFile": "/eloraam/base/rpbanner.png", 
+                "modid": "RedPowerMachine", 
+                "name": "RP Machine", 
+                "parent": "RedPowerCore", 
+                "url": "http://www.eloraam.com/", 
+                "version": ""
+            }, 
+            {
+                "authors": [
+                    "Eloraam"
+                ], 
+                "credits": "By Eloraam", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Power your world, comrade! (Computers)", 
+                "logoFile": "/eloraam/base/rpbanner.png", 
+                "modid": "RedPowerControl", 
+                "name": "RP Control", 
+                "parent": "RedPowerCore", 
+                "url": "http://www.eloraam.com/", 
+                "version": ""
+            }, 
+            {
+                "authors": [
+                    "Eloraam"
+                ], 
+                "credits": "By Eloraam", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Power your world, comrade! (Compatibility)", 
+                "logoFile": "/eloraam/base/rpbanner.png", 
+                "modid": "RedPowerCompat", 
+                "name": "RP Compat", 
+                "parent": "RedPowerCore", 
+                "url": "http://www.eloraam.com/", 
+                "version": ""
+            }
+        ], 
+        "sha256": "92638a55df978caf89cf824e1196d12ef2eb5c9c187954257d0030a122efa05a"
+    }, 
+    {
+        "filename": "minecraft/mods/RedPowerDigital-2.0pr6.zip", 
+        "info": [
+            {
+                "authors": [
+                    "Eloraam"
+                ], 
+                "credits": "By Eloraam", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Power your world, comrade!", 
+                "logoFile": "/eloraam/base/rpbanner.png", 
+                "modid": "RedPowerCore", 
+                "name": "RedPower", 
+                "url": "http://www.eloraam.com/", 
+                "version": "2.0 Prerelease 6"
+            }, 
+            {
+                "authors": [
+                    "Eloraam"
+                ], 
+                "credits": "By Eloraam", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Power your world, comrade! (Core items)", 
+                "logoFile": "/eloraam/base/rpbanner.png", 
+                "modid": "RedPowerBase", 
+                "name": "RP Base", 
+                "parent": "RedPowerCore", 
+                "url": "http://www.eloraam.com/", 
+                "version": ""
+            }, 
+            {
+                "authors": [
+                    "Eloraam"
+                ], 
+                "credits": "By Eloraam", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Power your world, comrade! (Wires)", 
+                "logoFile": "/eloraam/base/rpbanner.png", 
+                "modid": "RedPowerWiring", 
+                "name": "RP Wiring", 
+                "parent": "RedPowerCore", 
+                "url": "http://www.eloraam.com/", 
+                "version": ""
+            }, 
+            {
+                "authors": [
+                    "Eloraam"
+                ], 
+                "credits": "By Eloraam", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Power your world, comrade! (Logic Gates)", 
+                "logoFile": "/eloraam/base/rpbanner.png", 
+                "modid": "RedPowerLogic", 
+                "name": "RP Logic", 
+                "parent": "RedPowerCore", 
+                "url": "http://www.eloraam.com/", 
+                "version": ""
+            }, 
+            {
+                "authors": [
+                    "Eloraam"
+                ], 
+                "credits": "By Eloraam", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Power your world, comrade! (Lighting)", 
+                "logoFile": "/eloraam/base/rpbanner.png", 
+                "modid": "RedPowerLighting", 
+                "name": "RP Lighting", 
+                "parent": "RedPowerCore", 
+                "url": "http://www.eloraam.com/", 
+                "version": ""
+            }, 
+            {
+                "authors": [
+                    "Eloraam"
+                ], 
+                "credits": "By Eloraam", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Power your world, comrade! (World Gen)", 
+                "logoFile": "/eloraam/base/rpbanner.png", 
+                "modid": "RedPowerWorld", 
+                "name": "RP World", 
+                "parent": "RedPowerCore", 
+                "url": "http://www.eloraam.com/", 
+                "version": ""
+            }, 
+            {
+                "authors": [
+                    "Eloraam"
+                ], 
+                "credits": "By Eloraam", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Power your world, comrade! (Machines)", 
+                "logoFile": "/eloraam/base/rpbanner.png", 
+                "modid": "RedPowerMachine", 
+                "name": "RP Machine", 
+                "parent": "RedPowerCore", 
+                "url": "http://www.eloraam.com/", 
+                "version": ""
+            }, 
+            {
+                "authors": [
+                    "Eloraam"
+                ], 
+                "credits": "By Eloraam", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Power your world, comrade! (Computers)", 
+                "logoFile": "/eloraam/base/rpbanner.png", 
+                "modid": "RedPowerControl", 
+                "name": "RP Control", 
+                "parent": "RedPowerCore", 
+                "url": "http://www.eloraam.com/", 
+                "version": ""
+            }, 
+            {
+                "authors": [
+                    "Eloraam"
+                ], 
+                "credits": "By Eloraam", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Power your world, comrade! (Compatibility)", 
+                "logoFile": "/eloraam/base/rpbanner.png", 
+                "modid": "RedPowerCompat", 
+                "name": "RP Compat", 
+                "parent": "RedPowerCore", 
+                "url": "http://www.eloraam.com/", 
+                "version": ""
+            }
+        ], 
+        "sha256": "a1d5f4b69b7efdb967eed3c4c56fc33bfe68cbcd13381fc38d3768b7cdecf5b9"
+    }, 
+    {
+        "filename": "minecraft/mods/RedPowerMechanical-2.0pr6.zip", 
+        "info": [
+            {
+                "authors": [
+                    "Eloraam"
+                ], 
+                "credits": "By Eloraam", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Power your world, comrade!", 
+                "logoFile": "/eloraam/base/rpbanner.png", 
+                "modid": "RedPowerCore", 
+                "name": "RedPower", 
+                "url": "http://www.eloraam.com/", 
+                "version": "2.0 Prerelease 6"
+            }, 
+            {
+                "authors": [
+                    "Eloraam"
+                ], 
+                "credits": "By Eloraam", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Power your world, comrade! (Core items)", 
+                "logoFile": "/eloraam/base/rpbanner.png", 
+                "modid": "RedPowerBase", 
+                "name": "RP Base", 
+                "parent": "RedPowerCore", 
+                "url": "http://www.eloraam.com/", 
+                "version": ""
+            }, 
+            {
+                "authors": [
+                    "Eloraam"
+                ], 
+                "credits": "By Eloraam", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Power your world, comrade! (Wires)", 
+                "logoFile": "/eloraam/base/rpbanner.png", 
+                "modid": "RedPowerWiring", 
+                "name": "RP Wiring", 
+                "parent": "RedPowerCore", 
+                "url": "http://www.eloraam.com/", 
+                "version": ""
+            }, 
+            {
+                "authors": [
+                    "Eloraam"
+                ], 
+                "credits": "By Eloraam", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Power your world, comrade! (Logic Gates)", 
+                "logoFile": "/eloraam/base/rpbanner.png", 
+                "modid": "RedPowerLogic", 
+                "name": "RP Logic", 
+                "parent": "RedPowerCore", 
+                "url": "http://www.eloraam.com/", 
+                "version": ""
+            }, 
+            {
+                "authors": [
+                    "Eloraam"
+                ], 
+                "credits": "By Eloraam", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Power your world, comrade! (Lighting)", 
+                "logoFile": "/eloraam/base/rpbanner.png", 
+                "modid": "RedPowerLighting", 
+                "name": "RP Lighting", 
+                "parent": "RedPowerCore", 
+                "url": "http://www.eloraam.com/", 
+                "version": ""
+            }, 
+            {
+                "authors": [
+                    "Eloraam"
+                ], 
+                "credits": "By Eloraam", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Power your world, comrade! (World Gen)", 
+                "logoFile": "/eloraam/base/rpbanner.png", 
+                "modid": "RedPowerWorld", 
+                "name": "RP World", 
+                "parent": "RedPowerCore", 
+                "url": "http://www.eloraam.com/", 
+                "version": ""
+            }, 
+            {
+                "authors": [
+                    "Eloraam"
+                ], 
+                "credits": "By Eloraam", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Power your world, comrade! (Machines)", 
+                "logoFile": "/eloraam/base/rpbanner.png", 
+                "modid": "RedPowerMachine", 
+                "name": "RP Machine", 
+                "parent": "RedPowerCore", 
+                "url": "http://www.eloraam.com/", 
+                "version": ""
+            }, 
+            {
+                "authors": [
+                    "Eloraam"
+                ], 
+                "credits": "By Eloraam", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Power your world, comrade! (Computers)", 
+                "logoFile": "/eloraam/base/rpbanner.png", 
+                "modid": "RedPowerControl", 
+                "name": "RP Control", 
+                "parent": "RedPowerCore", 
+                "url": "http://www.eloraam.com/", 
+                "version": ""
+            }, 
+            {
+                "authors": [
+                    "Eloraam"
+                ], 
+                "credits": "By Eloraam", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Power your world, comrade! (Compatibility)", 
+                "logoFile": "/eloraam/base/rpbanner.png", 
+                "modid": "RedPowerCompat", 
+                "name": "RP Compat", 
+                "parent": "RedPowerCore", 
+                "url": "http://www.eloraam.com/", 
+                "version": ""
+            }
+        ], 
+        "sha256": "533cb509fdc6cb7c28419b9dba78bdff9fd93eb54bf6a3036c39e378f9c0f975"
+    }, 
+    {
+        "filename": "minecraft/mods/SoulShards-v1.26-universal.zip", 
+        "info": [
+            {
+                "authors": [
+                    "ShadwDrgn"
+                ], 
+                "credits": "Created by ShadwDrgn", 
+                "dependencies": [], 
+                "description": "Absorb the souls of monsters", 
+                "logoFile": "", 
+                "mcversion": "1.4.6", 
+                "modid": "SoulShards", 
+                "name": "SoulShards", 
+                "parent": "", 
+                "screenshots": [], 
+                "updateUrl": "", 
+                "url": "http://forgeirc.com/", 
+                "version": "1.26"
+            }
+        ], 
+        "sha256": "f20812ab82bfda233fa0e1f3611453452c1b22402c139d91f1a80e413f56c302"
+    }, 
+    {
+        "filename": "minecraft/mods/StevesCarts2.0.0.a42.zip", 
+        "info": [], 
+        "sha256": "98b9b4ed6e8910461f9ba74465909f78b8a5454f01b4beb160286a5069659531"
+    }, 
+    {
+        "filename": "minecraft/mods/Thaumcraft3.0.1c.zip", 
+        "info": [
+            {
+                "authors": [
+                    "Azanor"
+                ], 
+                "credits": "Special thanks to Dan Scott, Lorc, bonemouse, Scott Killen and chicken_bones", 
+                "dependencies": [], 
+                "description": "Adding a touch of magic to Minecraft", 
+                "logoFile": "TC3Logo.png", 
+                "mcversion": "1.4.6", 
+                "modid": "Thaumcraft", 
+                "name": "Thaumcraft", 
+                "parent": "", 
+                "screenshots": [], 
+                "updateUrl": "", 
+                "url": "http://www.minecraftforum.net/topic/838839-100-thaumcraft/", 
+                "version": "3.0.1c"
+            }
+        ], 
+        "sha256": "8ef4b6300f4ecd9797938d38d688eee37e0b674506a3726a9eebf69a1681c0d7"
+    }, 
+    {
+        "filename": "minecraft/mods/ThermalExpansion-2.1.6.zip", 
+        "info": [
+            {
+                "authors": [
+                    "KingLemmingCoFH", 
+                    "Cynycal", 
+                    "Zeldo"
+                ], 
+                "credits": "Team CoFH", 
+                "dependencies": [
+                    "MinecraftForge"
+                ], 
+                "description": "Expanding Minecraft thermally - provides new options for automation and processing!", 
+                "logoFile": "/thermalexpansion/gfx/logo.png", 
+                "mcversion": "1.4.6", 
+                "modid": "ThermalExpansion", 
+                "name": "Thermal Expansion", 
+                "parent": "", 
+                "screenshots": [], 
+                "updateUrl": "", 
+                "url": "http://thermalexpansion.wikispaces.com", 
+                "version": "2.1.6"
+            }, 
+            {
+                "authors": [
+                    "KingLemmingCoFH", 
+                    "Cynycal", 
+                    "Zeldo"
+                ], 
+                "credits": "Team CoFH", 
+                "dependencies": [
+                    "ThermalExpansion|Factory"
+                ], 
+                "description": "TE Energy Module", 
+                "logoFile": "", 
+                "mcversion": "", 
+                "modid": "ThermalExpansion|Energy", 
+                "name": "Energy", 
+                "parent": "ThermalExpansion", 
+                "screenshots": [], 
+                "updateUrl": "", 
+                "url": "http://thermalexpansion.wikispaces.com", 
+                "version": "2.1.6"
+            }, 
+            {
+                "authors": [
+                    "KingLemmingCoFH", 
+                    "Cynycal", 
+                    "Zeldo"
+                ], 
+                "credits": "Team CoFH", 
+                "dependencies": [
+                    "ThermalExpansion"
+                ], 
+                "description": "TE Factory Module", 
+                "logoFile": "", 
+                "mcversion": "", 
+                "modid": "ThermalExpansion|Factory", 
+                "name": "Factory", 
+                "parent": "ThermalExpansion", 
+                "screenshots": [], 
+                "updateUrl": "", 
+                "url": "http://thermalexpansion.wikispaces.com", 
+                "version": "2.1.6"
+            }, 
+            {
+                "authors": [
+                    "KingLemmingCoFH", 
+                    "Cynycal", 
+                    "Zeldo"
+                ], 
+                "credits": "Team CoFH", 
+                "dependencies": [
+                    "ThermalExpansion"
+                ], 
+                "description": "TE Transport Module", 
+                "logoFile": "", 
+                "mcversion": "", 
+                "modid": "ThermalExpansion|Transport", 
+                "name": "Transport", 
+                "parent": "ThermalExpansion", 
+                "screenshots": [], 
+                "updateUrl": "", 
+                "url": "http://thermalexpansion.wikispaces.com", 
+                "version": "2.1.6"
+            }
+        ], 
+        "sha256": "2493e4a534f379c32b12b9eff7eb1f22547b32e27c4c0e4e817ce050c9dbadb0"
+    }, 
+    {
+        "filename": "minecraft/mods/ThermalExpansion-NEI-2.1.6.zip", 
+        "info": [
+            {
+                "authors": [
+                    "KingLemmingCoFH", 
+                    "Cynycal", 
+                    "Zeldo"
+                ], 
+                "credits": "Team CoFH", 
+                "dependencies": [
+                    "ThermalExpansion"
+                ], 
+                "description": "TE NEI Module", 
+                "logoFile": "", 
+                "mcversion": "", 
+                "modid": "ThermalExpansion|NEI", 
+                "name": "NEI", 
+                "parent": "ThermalExpansion", 
+                "screenshots": [], 
+                "updateUrl": "", 
+                "url": "http://thermalexpansion.wikispaces.com", 
+                "version": "2.1.6"
+            }
+        ], 
+        "sha256": "0574728e0d4d4ea2e53ce7c19e2269353dd925914ccb08587cd1cd48ebbf559a"
+    }, 
+    {
+        "filename": "minecraft/mods/WR-CBE Addons 1.3.2.4.jar", 
+        "info": [], 
+        "sha256": "972c4f76b2e931a85528d66102360851d5900683da4140dfaa0ea048c2fe4c26"
+    }, 
+    {
+        "filename": "minecraft/mods/WR-CBE Core 1.3.2.4.jar", 
+        "info": [], 
+        "sha256": "97ca5a8c62b477b7522b73a8b3ab841bf5c0a94d830b6965ea03c50ea2b25c34"
+    }, 
+    {
+        "filename": "minecraft/mods/WR-CBE RedPower 1.3.2.4.jar", 
+        "info": [], 
+        "sha256": "837be468316c1bd89e93a1545719c132a93db03acccec6bd38f87001b0f4ce76"
+    }, 
+    {
+        "filename": "minecraft/mods/[1.4.6]ReiMinimap_v3.2_06.zip", 
+        "info": [], 
+        "sha256": "dcde8a14c32da0e05aa30b0fc17ac3d5518c2c1ea40bbee5145b0dac9c1a4606"
+    }, 
+    {
+        "filename": "minecraft/mods/buildcraft-A-3.3.0.jar", 
+        "info": [
+            {
+                "authors": [
+                    "SpaceToad", 
+                    "BuildCraft Team"
+                ], 
+                "credits": "Created by SpaceToad", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Extending Minecraft with pipes, auto-crafting, quarries, engines and much more!", 
+                "logoFile": "/gfx/buildcraft/logo.png", 
+                "mcversion": "", 
+                "modid": "BuildCraft|Core", 
+                "name": "BuildCraft", 
+                "parent": "", 
+                "screenshots": [], 
+                "updateUrl": "", 
+                "url": "http://www.mod-buildcraft.com/", 
+                "version": ""
+            }, 
+            {
+                "authors": [
+                    "SpaceToad", 
+                    "BuildCraft Team"
+                ], 
+                "credits": "Created by SpaceToad", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Extending Minecraft with pipes, auto-crafting, quarries, engines and much more! (Builders Component)", 
+                "logoFile": "/gfx/buildcraft/logo.png", 
+                "mcversion": "", 
+                "modid": "BuildCraft|Builders", 
+                "name": "BC Builders", 
+                "parent": "BuildCraft|Core", 
+                "screenshots": [], 
+                "updateUrl": "", 
+                "url": "http://www.mod-buildcraft.com/", 
+                "version": ""
+            }, 
+            {
+                "authors": [
+                    "SpaceToad", 
+                    "BuildCraft Team"
+                ], 
+                "credits": "Created by SpaceToad", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Extending Minecraft with pipes, auto-crafting, quarries, engines and much more! (Energy Component)", 
+                "logoFile": "/gfx/buildcraft/logo.png", 
+                "mcversion": "", 
+                "modid": "BuildCraft|Energy", 
+                "name": "BC Energy", 
+                "parent": "BuildCraft|Core", 
+                "screenshots": [], 
+                "updateUrl": "", 
+                "url": "http://www.mod-buildcraft.com/", 
+                "version": ""
+            }, 
+            {
+                "authors": [
+                    "SpaceToad", 
+                    "BuildCraft Team"
+                ], 
+                "credits": "Created by SpaceToad", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Extending Minecraft with pipes, auto-crafting, quarries, engines and much more! (Factory Component)", 
+                "logoFile": "/gfx/buildcraft/logo.png", 
+                "mcversion": "", 
+                "modid": "BuildCraft|Factory", 
+                "name": "BC Factory", 
+                "parent": "BuildCraft|Core", 
+                "screenshots": [], 
+                "updateUrl": "", 
+                "url": "http://www.mod-buildcraft.com/", 
+                "version": ""
+            }, 
+            {
+                "authors": [
+                    "SpaceToad", 
+                    "BuildCraft Team"
+                ], 
+                "credits": "Created by SpaceToad", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Extending Minecraft with pipes, auto-crafting, quarries, engines and much more! (Silicon Component)", 
+                "logoFile": "/gfx/buildcraft/logo.png", 
+                "mcversion": "", 
+                "modid": "BuildCraft|Silicon", 
+                "name": "BC Silicon", 
+                "parent": "BuildCraft|Core", 
+                "screenshots": [], 
+                "updateUrl": "", 
+                "url": "http://www.mod-buildcraft.com/", 
+                "version": ""
+            }, 
+            {
+                "authors": [
+                    "SpaceToad", 
+                    "BuildCraft Team"
+                ], 
+                "credits": "Created by SpaceToad", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Extending Minecraft with pipes, auto-crafting, quarries, engines and much more! (Transport Component)", 
+                "logoFile": "/gfx/buildcraft/logo.png", 
+                "mcversion": "", 
+                "modid": "BuildCraft|Transport", 
+                "name": "BC Transport", 
+                "parent": "BuildCraft|Core", 
+                "screenshots": [], 
+                "updateUrl": "", 
+                "url": "http://www.mod-buildcraft.com/", 
+                "version": ""
+            }
+        ], 
+        "sha256": "348eaa4985b81d7a978af73cb9dea8172d6c560af1ac5648468c2f6e34f1bb76"
+    }, 
+    {
+        "filename": "minecraft/mods/chargepads-universal-2.3.0.58.zip", 
+        "info": [
+            {
+                "authorList": [
+                    "Myrathi"
+                ], 
+                "dependencies": [
+                    "IC2@[1.112,)", 
+                    "mod_NotEnoughItems@[1.4.4,)"
+                ], 
+                "description": "ChargePads provides new IC2 blocks that, when stood upon, will recharge IC2 items.", 
+                "mcversion": "1.4.6", 
+                "modid": "ChargePads", 
+                "name": "Charge Pads", 
+                "parent": "", 
+                "requiredMods": [
+                    "Forge@[6.5.0,)", 
+                    "FML@[4.6,)", 
+                    "IC2@[1.112,)"
+                ], 
+                "url": "http://bit.ly/ChargePads", 
+                "useDependencyInformation": "true", 
+                "version": "2.3.0.58"
+            }
+        ], 
+        "sha256": "e8a9f2d79cfdcda3f679c3bdb8e160824a1d902370b0fccff2a8a730ef2cab5e"
+    }, 
+    {
+        "filename": "minecraft/mods/compactsolars-universal-1.4.6-3.2.0.21.zip", 
+        "info": [], 
+        "sha256": "e538103f17500af13256d5a53f90a8d4180ccdc7d84e015b28ad04b7f6006f21"
+    }, 
+    {
+        "filename": "minecraft/mods/ee3-universal-pre1f.jar", 
+        "info": [
+            {
+                "authorList": [
+                    "pahimar", 
+                    "x3n0ph0b3"
+                ], 
+                "credits": "By pahimar, based on Equivalent Exchange 1 & 2 by x3n0ph0b3", 
+                "dependencies": [], 
+                "description": "Transmute stuff into other stuff! Become a Minecraft God!", 
+                "logoFile": "com/pahimar/ee3/art/logo.png", 
+                "modid": "EE3", 
+                "name": "Equivalent Exchange 3", 
+                "parent": "", 
+                "screenshots": [], 
+                "updateUrl": "", 
+                "url": "http://www.minecraftforum.net/topic/1106178-", 
+                "version": "pre1f"
+            }
+        ], 
+        "sha256": "a047d8033e76badac909fb9a80171742dd065e1056342e3dfb5fce6488cba2c9"
+    }, 
+    {
+        "filename": "minecraft/mods/forestry-A-1.7.0.1.jar", 
+        "info": [
+            {
+                "authors": [
+                    "SirSengir"
+                ], 
+                "credits": "mistaqur, Binnie", 
+                "dependencies": [
+                    "mod_MinecraftForge"
+                ], 
+                "description": "Trees, bees and more.", 
+                "logoFile": "/gfx/forestry/logo.png", 
+                "mcversion": "", 
+                "modid": "Forestry", 
+                "name": "Forestry for Minecraft", 
+                "screenshots": [
+                    "/gfx/forestry/screenshots/screen1.jpg", 
+                    "/gfx/forestry/screenshots/screen2.jpg"
+                ], 
+                "updateUrl": "http://forestry.sengir.net/wiki/index.php?n=Main.Downloads", 
+                "url": "http://forestry.sengir.net/"
+            }
+        ], 
+        "sha256": "8ab12835e58e7d50ccfd2919134ed6fdbd9022d7eb9b5119c38598aeaecd9b7d"
+    }, 
+    {
+        "filename": "minecraft/mods/industrialcraft-2_1.112.170-lf.jar", 
+        "info": [
+            {
+                "authors": [
+                    "Alblaka", 
+                    "Player", 
+                    "alexthesax", 
+                    "Elementalist", 
+                    "RichardG", 
+                    "Feanturi", 
+                    "tahu44", 
+                    "Lurch1985"
+                ], 
+                "credits": "Contributions by many people", 
+                "dependencies": [], 
+                "description": "Industrial age themed expansion for Minecraft.", 
+                "logoFile": "", 
+                "modid": "IC2", 
+                "name": "IndustrialCraft 2", 
+                "parent": "", 
+                "screenshots": [], 
+                "updateUrl": "", 
+                "url": "http://www.industrial-craft.net", 
+                "version": "1.112.170-lf"
+            }
+        ], 
+        "sha256": "d4593aaf53621d47be97d6025a451876426631acc355350f08f6f352f39ee4db"
+    }, 
+    {
+        "filename": "minecraft/mods/ironchest-universal-1.4.7-4.5.2.213.zip", 
+        "info": [], 
+        "sha256": "a9496720fb12c8d8d667d6493c44f3a9f896c15264a4332d02f7363a6448fd2b"
+    }, 
+    {
+        "filename": "minecraft/mods/miscperipherals-2.3.zip", 
+        "info": [], 
+        "sha256": "639ba6e20dfadf6ad90c548f5bc90ddb27df0ffcd74ddee52707e0f2a123f7ad"
+    }, 
+    {
+        "filename": "minecraft/mods/mod_zGraviSuite_1_6.zip", 
+        "info": [
+            {
+                "authors": [
+                    "SeNtiMeL"
+                ], 
+                "credits": "Created by SeNtiMeL", 
+                "dependencies": [
+                    "IC2", 
+                    "AdvancedSolarPanel"
+                ], 
+                "description": "Gravitation Suite give you ability to fly. This is addon for IndustrialCraft 2", 
+                "logoFile": "", 
+                "mcversion": "1.4.6", 
+                "modid": "GraviSuite", 
+                "name": "Gravitation Suite", 
+                "parent": "", 
+                "requiredMods": [
+                    "IC2", 
+                    "Forge", 
+                    "FML"
+                ], 
+                "screenshots": [], 
+                "updateUrl": "", 
+                "url": "http://forum.industrial-craft.net/index.php?page=Thread&threadID=6915", 
+                "useDependencyInformation": "true", 
+                "version": "1.6"
+            }
+        ], 
+        "sha256": "528b16b6369e21cc00062a4d42c06797d15e2bf34cee2fcf336682231b0216e8"
+    }, 
+    {
+        "filename": "minecraft/mods/mystcraft-uni-1.4.6-0.9.5.00.zip", 
+        "info": [
+            {
+                "authors": [
+                    "XCompWiz"
+                ], 
+                "credits": "Thanks: Unorthodox, SamuelWolve, Veovis, Forgecraft", 
+                "description": "Mystcraft brings elements from the Myst series of games and books to Minecraft, as well as allowing players to actually write and travel to their own Ages.", 
+                "logoFile": "/mystcraft_logo.png", 
+                "modid": "Mystcraft", 
+                "name": "Mystcraft", 
+                "parent": "", 
+                "screenshots": [], 
+                "updateUrl": "http://binarymage.com", 
+                "url": "http://binarymage.com", 
+                "version": "0.9.5.00"
+            }
+        ], 
+        "sha256": "f21557000b80ffde37501956697f0784bea2a42cf5222d0e6f86c92bb911559f"
+    }, 
+    {
+        "filename": "minecraft/mods/obsidiplates-universal-1.2.0.3.zip", 
+        "info": [
+            {
+                "authorList": [
+                    "Myrathi"
+                ], 
+                "credits": "JadedCat: because she asked for it :)", 
+                "dependencies": [], 
+                "description": "Provides pressure plates that can only be activated by players.", 
+                "logoFile": "", 
+                "mcversion": "1.4.6", 
+                "modid": "ObsidiPlates", 
+                "name": "Obsidian Pressure Plates", 
+                "parent": "", 
+                "requiredMods": [
+                    "Forge@[6.5.0,)", 
+                    "FML@[4.6,)"
+                ], 
+                "screenshots": [], 
+                "updateUrl": "", 
+                "url": "http://bit.ly/ObsidiPlates", 
+                "useDependencyInformation": "true", 
+                "version": "1.2.0.3"
+            }
+        ], 
+        "sha256": "df359d224dfe0a5de37bdaccf0cc7f1c04fd4ecbda5a8ebab9f8e9163d92995a"
+    }, 
+    {
+        "filename": "minecraft/mods/xycraft-universal-1.4.6-0.9.44.zip", 
+        "info": [
+            {
+                "authors": [
+                    "Soaryn"
+                ], 
+                "credits": "Author & Design: Soaryn - Assistance: XCompWiz", 
+                "dependencies": [], 
+                "description": "XyCraft is primarily focused on tech expansion. There are three main aspects. Aesthetics, Machines, and the Upgrade System", 
+                "logoFile": "", 
+                "mcversion": "1.4.5", 
+                "modid": "XyCraft", 
+                "name": "XyCraft", 
+                "parent": "", 
+                "updateUrl": "http://xycraft.wikispaces.com/Downloads", 
+                "url": "http://xycraft.wikispaces.com/", 
+                "version": "0.9"
+            }
+        ], 
+        "sha256": "cd05da3f9b945064a0c8a7403b1e3a0e3cd03ac0565d52d0939e189733679c2f"
+    }
+]
