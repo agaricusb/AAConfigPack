@@ -15,6 +15,14 @@
         "sha256": "241c88f0eec5b75d49a6a9561ef8af6dbe1caa3dac7977141fdc60fade59e758"
     }, 
     {
+        "configs": [
+            "minecraft/optionsof.txt"
+        ], 
+        "filename": "instMods/OptiFine_1.4.6_HD_U_A3.zip", 
+        "info": [], 
+        "sha256": "7692419a5a77ae7aa4912ef582310b4311f589a5839b141304de5c6b544077f4"
+    }, 
+    {
         "filename": "minecraft/bin/minecraft.jar", 
         "info": [
             {
@@ -25,14 +33,6 @@
             }
         ], 
         "sha256": "65a9ab219b55ae4b034b71d8354cedafb651b151e9172bd2c67d275a1e5aa9ad"
-    }
-    {
-        "configs": [
-            "minecraft/optionsof.txt"
-        ], 
-        "filename": "instMods/OptiFine_1.4.6_HD_U_A3.zip", 
-        "info": [], 
-        "sha256": "7692419a5a77ae7aa4912ef582310b4311f589a5839b141304de5c6b544077f4"
     }, 
     {
         "filename": "minecraft/coremods/CodeChickenCore 0.7.0.2.jar", 
