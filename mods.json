@@ -1,20 +1,41 @@
 [
     {
+        "configs": [
+            "minecraft/config/forge.cfg", 
+            "minecraft/config/forgeChunkLoading.cfg"
+        ], 
+        "filename": "instMods/MinecraftForge.zip", 
+        "info": [], 
+        "sha256": "241c88f0eec5b75d49a6a9561ef8af6dbe1caa3dac7977141fdc60fade59e758"
+    }, 
+    {
         "filename": "minecraft/coremods/CodeChickenCore 0.7.0.2.jar", 
         "info": [], 
         "sha256": "33de766675dd3dfcf4bc72de89c9f9084ff146f9b751cebb61767fd986277640"
     }, 
     {
+        "configs": [
+            "minecraft/config/NEI.cfg", 
+            "minecraft/config/NEIServer.cfg", 
+            "minecraft/config/NEISubset.cfg"
+        ], 
         "filename": "minecraft/coremods/NotEnoughItems 1.4.5.0.jar", 
         "info": [], 
         "sha256": "52dc261fe1e526956be1cad4cd7e5f3d58c54a33c848fbdec8d7ad89c38abd10"
     }, 
     {
+        "configs": [
+            "minecraft/config/ChickenChunks.cfg"
+        ], 
         "filename": "minecraft/mods/ChickenChunks 1.2.1.1.jar", 
         "info": [], 
         "sha256": "ced11c57aad4e0eafc358200c6fc0aed88b973880d1cf19bbb386f9d7fd2548e"
     }, 
     {
+        "configs": [
+            "minecraft/config/CCTurtle.cfg", 
+            "minecraft/config/ComputerCraft.cfg"
+        ], 
         "filename": "minecraft/mods/ComputerCraft1.481.zip", 
         "info": [
             {
@@ -53,11 +74,18 @@
         "sha256": "0b46ef44170aba051bed4c0cf5bdb2fec3aa1791a193e98acf2c40cd51cd156d"
     }, 
     {
+        "configs": [
+            "minecraft/config/EnderStorage.cfg"
+        ], 
         "filename": "minecraft/mods/EnderStorage 1.3.1.1.jar", 
         "info": [], 
         "sha256": "963abe6cd3d5cb4e42317054185af8e19733a7d1aad992304eb48e777735e72f"
     }, 
     {
+        "configs": [
+            "minecraft/config/extrabiomes", 
+            "minecraft/config/extrabiomes/extrabiomes.cfg"
+        ], 
         "filename": "minecraft/mods/ExtrabiomesXL-universal-1.4.7-3.8.0.jar", 
         "info": [
             {
@@ -85,6 +113,9 @@
         "sha256": "66ff3f66fa037e71f2621446b93cfc503bdd047858268d1e03cce6fc10974077"
     }, 
     {
+        "configs": [
+            "minecraft/config/factorization.cfg"
+        ], 
         "filename": "minecraft/mods/Factorization-0.7.10.jar", 
         "info": [
             {
@@ -107,6 +138,9 @@
         "sha256": "d7fc8a488dbd0feb72610f42107d970fd5c2a4f00870565edc9b9e48f997502f"
     }, 
     {
+        "configs": [
+            "minecraft/config/GraviGun.cfg"
+        ], 
         "filename": "minecraft/mods/GravityGun1.4.6v1.zip", 
         "info": [
             {
@@ -131,6 +165,11 @@
         "sha256": "5f67954ebcedcb299e664925e7ab63733c89a155b3a40ff71e3db10cfe41405b"
     }, 
     {
+        "configs": [
+            "minecraft/config/IC2NuclearControl.cfg", 
+            "minecraft/config/IC2NuclearControl.lang", 
+            "minecraft/config/modstats.cfg"
+        ], 
         "filename": "minecraft/mods/IC2NuclearControl-1.4.5.zip", 
         "info": [
             {
@@ -156,11 +195,19 @@
         "sha256": "31203516e6796d645771b9edbd394f762ee4cbca4ae6dc4cb0a83b5f72d75325"
     }, 
     {
+        "configs": [
+            "minecraft/config/InvTweaks.cfg", 
+            "minecraft/config/InvTweaksRules.txt", 
+            "minecraft/config/InvTweaksTree.txt"
+        ], 
         "filename": "minecraft/mods/InventoryTweaks_v1.49_(1.4.6).zip", 
         "info": [], 
         "sha256": "1cea9fbffabe86c4819bb995ab9aa0965a0793f8a56b21cea36877188cc14049"
     }, 
     {
+        "configs": [
+            "minecraft/config/ModularForceFieldSystem.cfg"
+        ], 
         "filename": "minecraft/mods/ModularForceFieldSystemV2.2.8.2.14.zip", 
         "info": [
             {
@@ -196,6 +243,10 @@
         "sha256": "83cd951721633652508cf75457773290eeedc4337eb640b996459ed998427df3"
     }, 
     {
+        "configs": [
+            "minecraft/config/cofh/omnitools.cfg", 
+            "minecraft/config/cofh/omnitools.ignore"
+        ], 
         "filename": "minecraft/mods/OmniTools-2.2.5.zip", 
         "info": [
             {
@@ -222,6 +273,9 @@
         "sha256": "4b76ad36b23e814a523605b66999015de4bf9e29af6de6a97b6cd78db168f281"
     }, 
     {
+        "configs": [
+            "minecraft/config/PortalGun.cfg"
+        ], 
         "filename": "minecraft/mods/PortalGun1.4.7v2.zip", 
         "info": [
             {
@@ -246,6 +300,12 @@
         "sha256": "a1c3462a11d600d70f6d53d6d7f617d7a27d869c31f2904d374bfcb1e6c0af70"
     }, 
     {
+        "configs": [
+            "minecraft/config/railcraft", 
+            "minecraft/config/railcraft/lang", 
+            "minecraft/config/railcraft/modules.cfg", 
+            "minecraft/config/railcraft/railcraft.cfg"
+        ], 
         "filename": "minecraft/mods/Railcraft_1.4.6-6.13.1.0.zip", 
         "info": [
             {
@@ -269,6 +329,11 @@
         "sha256": "ed5a57c8c01f736d14f1d7ad379e50f62a1bcd03bc31b31569176db1bce48629"
     }, 
     {
+        "configs": [
+            "minecraft/config/redpower", 
+            "minecraft/config/redpower/redpower.cfg", 
+            "minecraft/config/redpower/redpower.lang"
+        ], 
         "filename": "minecraft/mods/RedPowerCompat-2.0pr6.zip", 
         "info": [
             {
@@ -865,6 +930,9 @@
         "sha256": "533cb509fdc6cb7c28419b9dba78bdff9fd93eb54bf6a3036c39e378f9c0f975"
     }, 
     {
+        "configs": [
+            "minecraft/config/SoulShards.cfg"
+        ], 
         "filename": "minecraft/mods/SoulShards-v1.26-universal.zip", 
         "info": [
             {
@@ -888,11 +956,17 @@
         "sha256": "f20812ab82bfda233fa0e1f3611453452c1b22402c139d91f1a80e413f56c302"
     }, 
     {
+        "configs": [
+            "minecraft/config/StevesCarts.cfg"
+        ], 
         "filename": "minecraft/mods/StevesCarts2.0.0.a42.zip", 
         "info": [], 
         "sha256": "98b9b4ed6e8910461f9ba74465909f78b8a5454f01b4beb160286a5069659531"
     }, 
     {
+        "configs": [
+            "minecraft/config/Thaumcraft.cfg"
+        ], 
         "filename": "minecraft/mods/Thaumcraft3.0.1c.zip", 
         "info": [
             {
@@ -916,6 +990,11 @@
         "sha256": "8ef4b6300f4ecd9797938d38d688eee37e0b674506a3726a9eebf69a1681c0d7"
     }, 
     {
+        "configs": [
+            "minecraft/config/cofh", 
+            "minecraft/config/cofh/telenames.cfg", 
+            "minecraft/config/cofh/thermalexpansion.cfg"
+        ], 
         "filename": "minecraft/mods/ThermalExpansion-2.1.6.zip", 
         "info": [
             {
@@ -1038,6 +1117,9 @@
         "sha256": "972c4f76b2e931a85528d66102360851d5900683da4140dfaa0ea048c2fe4c26"
     }, 
     {
+        "configs": [
+            "minecraft/config/WirelessRedstone.cfg"
+        ], 
         "filename": "minecraft/mods/WR-CBE Core 1.3.2.4.jar", 
         "info": [], 
         "sha256": "97ca5a8c62b477b7522b73a8b3ab841bf5c0a94d830b6965ea03c50ea2b25c34"
@@ -1048,11 +1130,19 @@
         "sha256": "837be468316c1bd89e93a1545719c132a93db03acccec6bd38f87001b0f4ce76"
     }, 
     {
+        "configs": [
+            "minecraft/mods/rei_minimap/keyconfig.txt", 
+            "minecraft/mods/rei_minimap/option.txt"
+        ], 
         "filename": "minecraft/mods/[1.4.6]ReiMinimap_v3.2_06.zip", 
         "info": [], 
         "sha256": "dcde8a14c32da0e05aa30b0fc17ac3d5518c2c1ea40bbee5145b0dac9c1a4606"
     }, 
     {
+        "configs": [
+            "minecraft/config/buildcraft", 
+            "minecraft/config/buildcraft/main.conf"
+        ], 
         "filename": "minecraft/mods/buildcraft-A-3.3.0.jar", 
         "info": [
             {
@@ -1179,6 +1269,9 @@
         "sha256": "348eaa4985b81d7a978af73cb9dea8172d6c560af1ac5648468c2f6e34f1bb76"
     }, 
     {
+        "configs": [
+            "minecraft/config/ChargePads.cfg"
+        ], 
         "filename": "minecraft/mods/chargepads-universal-2.3.0.58.zip", 
         "info": [
             {
@@ -1207,11 +1300,17 @@
         "sha256": "e8a9f2d79cfdcda3f679c3bdb8e160824a1d902370b0fccff2a8a730ef2cab5e"
     }, 
     {
+        "configs": [
+            "minecraft/config/CompactSolars.cfg"
+        ], 
         "filename": "minecraft/mods/compactsolars-universal-1.4.6-3.2.0.21.zip", 
         "info": [], 
         "sha256": "e538103f17500af13256d5a53f90a8d4180ccdc7d84e015b28ad04b7f6006f21"
     }, 
     {
+        "configs": [
+            "minecraft/config/EE3.cfg"
+        ], 
         "filename": "minecraft/mods/ee3-universal-pre1f.jar", 
         "info": [
             {
@@ -1235,6 +1334,18 @@
         "sha256": "a047d8033e76badac909fb9a80171742dd065e1056342e3dfb5fce6488cba2c9"
     }, 
     {
+        "configs": [
+            "minecraft/config/forestry", 
+            "minecraft/config/forestry/apiculture.conf", 
+            "minecraft/config/forestry/backpacks.conf", 
+            "minecraft/config/forestry/base.conf", 
+            "minecraft/config/forestry/common.conf", 
+            "minecraft/config/forestry/gamemodes", 
+            "minecraft/config/forestry/gamemodes/EASY.conf", 
+            "minecraft/config/forestry/gamemodes/HARD.conf", 
+            "minecraft/config/forestry/gamemodes/NORMAL.conf", 
+            "minecraft/config/forestry/pipes.conf"
+        ], 
         "filename": "minecraft/mods/forestry-A-1.7.0.1.jar", 
         "info": [
             {
@@ -1261,6 +1372,10 @@
         "sha256": "8ab12835e58e7d50ccfd2919134ed6fdbd9022d7eb9b5119c38598aeaecd9b7d"
     }, 
     {
+        "configs": [
+            "minecraft/config/IC2.cfg", 
+            "minecraft/config/IC2.lang"
+        ], 
         "filename": "minecraft/mods/industrialcraft-2_1.112.170-lf.jar", 
         "info": [
             {
@@ -1290,16 +1405,25 @@
         "sha256": "d4593aaf53621d47be97d6025a451876426631acc355350f08f6f352f39ee4db"
     }, 
     {
+        "configs": [
+            "minecraft/config/IronChest.cfg"
+        ], 
         "filename": "minecraft/mods/ironchest-universal-1.4.7-4.5.2.213.zip", 
         "info": [], 
         "sha256": "a9496720fb12c8d8d667d6493c44f3a9f896c15264a4332d02f7363a6448fd2b"
     }, 
     {
+        "configs": [
+            "minecraft/config/MiscPeripherals.cfg"
+        ], 
         "filename": "minecraft/mods/miscperipherals-2.3.zip", 
         "info": [], 
         "sha256": "639ba6e20dfadf6ad90c548f5bc90ddb27df0ffcd74ddee52707e0f2a123f7ad"
     }, 
     {
+        "configs": [
+            "minecraft/config/GraviSuite.cfg"
+        ], 
         "filename": "minecraft/mods/mod_zGraviSuite_1_6.zip", 
         "info": [
             {
@@ -1332,6 +1456,9 @@
         "sha256": "528b16b6369e21cc00062a4d42c06797d15e2bf34cee2fcf336682231b0216e8"
     }, 
     {
+        "configs": [
+            "minecraft/config/mystcraft_config.txt"
+        ], 
         "filename": "minecraft/mods/mystcraft-uni-1.4.6-0.9.5.00.zip", 
         "info": [
             {
@@ -1353,6 +1480,9 @@
         "sha256": "f21557000b80ffde37501956697f0784bea2a42cf5222d0e6f86c92bb911559f"
     }, 
     {
+        "configs": [
+            "minecraft/config/ObsidiPlates.cfg"
+        ], 
         "filename": "minecraft/mods/obsidiplates-universal-1.2.0.3.zip", 
         "info": [
             {
@@ -1381,6 +1511,9 @@
         "sha256": "df359d224dfe0a5de37bdaccf0cc7f1c04fd4ecbda5a8ebab9f8e9163d92995a"
     }, 
     {
+        "configs": [
+            "minecraft/config/XyCraft.cfg"
+        ], 
         "filename": "minecraft/mods/xycraft-universal-1.4.6-0.9.44.zip", 
         "info": [
             {
