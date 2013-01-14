@@ -5,7 +5,13 @@
             "minecraft/config/forgeChunkLoading.cfg"
         ], 
         "filename": "instMods/MinecraftForge.zip", 
-        "info": [], 
+        "info": [
+            {
+                "name": "Minecraft Forge", 
+                "url": "http://www.minecraftforge.net/", 
+                "version": "6.5.0.489"
+            }
+        ], 
         "sha256": "241c88f0eec5b75d49a6a9561ef8af6dbe1caa3dac7977141fdc60fade59e758"
     }, 
     {
