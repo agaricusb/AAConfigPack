@@ -1,21 +1,6 @@
 [
     {
         "configs": [
-            "minecraft/config/forge.cfg", 
-            "minecraft/config/forgeChunkLoading.cfg"
-        ], 
-        "filename": "instMods/MinecraftForge.zip", 
-        "info": [
-            {
-                "name": "Minecraft Forge", 
-                "url": "http://www.minecraftforge.net/", 
-                "version": "6.5.0.489"
-            }
-        ], 
-        "sha256": "241c88f0eec5b75d49a6a9561ef8af6dbe1caa3dac7977141fdc60fade59e758"
-    }, 
-    {
-        "configs": [
             "minecraft/optionsof.txt"
         ], 
         "filename": "instMods/OptiFine_1.4.6_HD_U_A3.zip", 
@@ -23,16 +8,31 @@
         "sha256": "7692419a5a77ae7aa4912ef582310b4311f589a5839b141304de5c6b544077f4"
     }, 
     {
+        "configs": [
+            "minecraft/config/forge.cfg", 
+            "minecraft/config/forgeChunkLoading.cfg"
+        ], 
+        "filename": "instMods/minecraftforge-universal-1.4.7-6.6.0.499.zip", 
+        "info": [
+            {
+                "name": "Minecraft Forge", 
+                "url": "http://www.minecraftforge.net", 
+                "version": "6.6.0.499"
+            }
+        ], 
+        "sha256": "4afccd945b9536a3432136086b32e2383505bfe595a5a1e446eae032bdd98f8d"
+    }, 
+    {
         "filename": "minecraft/bin/minecraft.jar", 
         "info": [
             {
                 "name": "Minecraft", 
-                "updateUrl": "http://assets.minecraft.net/1_4_6/minecraft.jar", 
+                "updateUrl": "http://assets.minecraft.net/1_4_7/minecraft.jar", 
                 "url": "http://minecraft.net/", 
-                "version": "1.4.6"
+                "version": "1.4.7"
             }
         ], 
-        "sha256": "65a9ab219b55ae4b034b71d8354cedafb651b151e9172bd2c67d275a1e5aa9ad"
+        "sha256": "0db30842de190e734f93b2f5d4f7312cc24d03c91e230a728bb0d0ce1e2f09a9"
     }, 
     {
         "filename": "minecraft/coremods/CodeChickenCore 0.7.0.2.jar", 
