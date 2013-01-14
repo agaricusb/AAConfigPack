@@ -15,6 +15,18 @@
         "sha256": "241c88f0eec5b75d49a6a9561ef8af6dbe1caa3dac7977141fdc60fade59e758"
     }, 
     {
+        "filename": "minecraft/bin/minecraft.jar", 
+        "info": [
+            {
+                "name": "Minecraft", 
+                "updateUrl": "http://assets.minecraft.net/1_4_6/minecraft.jar", 
+                "url": "http://minecraft.net/", 
+                "version": "1.4.6"
+            }
+        ], 
+        "sha256": "65a9ab219b55ae4b034b71d8354cedafb651b151e9172bd2c67d275a1e5aa9ad"
+    }, 
+    {
         "filename": "minecraft/coremods/CodeChickenCore 0.7.0.2.jar", 
         "info": [], 
         "sha256": "33de766675dd3dfcf4bc72de89c9f9084ff146f9b751cebb61767fd986277640"

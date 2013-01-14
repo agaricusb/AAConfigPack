@@ -13,6 +13,7 @@ def getModFiles():
     for d in dirs:
         mods.extend([os.path.join(d, mod) for mod in os.listdir(d)])
     mods = filter(lambda x: x.endswith(".jar") or x.endswith(".zip"), mods)
+    mods.append("minecraft/bin/minecraft.jar")
     return sorted(mods)
 
 # Get list of mods with their filenames, hashes, and other metadata
@@ -95,7 +96,16 @@ def main():
             if not os.path.exists(config):
                 print "Mod %s associated with config '%s' but file does not exist!" % (mod, config)
             configCount += 1
-   
+
+    # Ensure mods still exist
+    haveMods = []
+    for mod in mods:
+        if not os.path.exists(mod["filename"]):
+            print "Mod %s deleted! Removing..." % (mod["filename"])
+        else:
+            haveMods.append(mod)
+    mods = haveMods
+    
     # Save
     file(MOD_DB, "w").write(json.dumps(mods, indent=4, sort_keys=True))
     print "Total %s mod, %s config files" % (len(mods), configCount)
