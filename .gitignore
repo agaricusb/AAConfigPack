@@ -5,6 +5,7 @@
 .DS_Store
 0config
 0mods
+0plugins
 Flan
 *.log
 banned-ips.txt
