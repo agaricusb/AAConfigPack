@@ -113,7 +113,7 @@ database:
   password: walrus
   url: jdbc:sqlite:{DIR}{NAME}.db
 orebfuscator:
-  enable: false
+  enable: true
   update-radius: 2
   disabled-worlds:
   - world_the_end
