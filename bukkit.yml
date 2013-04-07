@@ -32,8 +32,8 @@ settings:
 mcpc:
   connection-logging: false
   dump-materials: false
-  infinite-water-source: true
-  flowing-lava-decay: false
+  infinite-water-source: false
+  flowing-lava-decay: true
   simulate-block-place-event-IDs: []
   simulate-block-place-event-default: false
   fake-players:
