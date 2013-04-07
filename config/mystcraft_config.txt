@@ -149,6 +149,7 @@ symbol {
     B:modmat_tile.log.oak.enabled=true
     B:modmat_tile.log.spruce.enabled=true
     B:modmat_tile.netherbrick.enabled=true
+    B:modmat_tile.oilstill.enabled=true
     B:modmat_tile.orecoal.enabled=true
     B:modmat_tile.orediamond.enabled=true
     B:modmat_tile.oregold.enabled=true
