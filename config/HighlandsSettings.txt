@@ -1,0 +1,259 @@
+/* Highlands Settings */
+
+/* Biomes - All Biomes must have a unique ID even if set to generate false */
+
+Alps
+BiomeID = 150
+Generate = true
+
+Autumn Forest
+BiomeID = 151
+Generate = true
+
+Badlands
+BiomeID = 152
+Generate = true
+
+Birch Forest
+BiomeID = 153
+Generate = true
+
+Bog
+BiomeID = 154
+Generate = true
+
+Cliffs
+BiomeID = 155
+Generate = true
+
+Dunes
+BiomeID = 156
+Generate = true
+
+Estuary
+BiomeID = 157
+Generate = true
+
+Flying Mountains
+BiomeID = 158
+Generate = true
+
+Highlands
+BiomeID = 159
+Generate = true
+
+Lowlands
+BiomeID = 160
+Generate = true
+
+Meadow
+BiomeID = 161
+Generate = true
+
+Mixed Forest
+BiomeID = 162
+Generate = true
+
+Mountains
+BiomeID = 163
+Generate = true
+
+Outback
+BiomeID = 164
+Generate = true
+
+Pinelands
+BiomeID = 165
+Generate = true
+
+Primordial Forest
+BiomeID = 166
+Generate = true
+
+Rainforest
+BiomeID = 167
+Generate = true
+
+Redwood Forest
+BiomeID = 168
+Generate = true
+
+Sahel
+BiomeID = 169
+Generate = true
+
+Savannah
+BiomeID = 170
+Generate = true
+
+Tall Pine Forest
+BiomeID = 171
+Generate = true
+
+Temperate Rainforest
+BiomeID = 172
+Generate = true
+
+Tropics
+BiomeID = 173
+Generate = true
+
+Tropical Islands
+BiomeID = 174
+Generate = true
+
+Tundra
+BiomeID = 175
+Generate = true
+
+Woodlands
+BiomeID = 176
+Generate = true
+
+Woodland Mountains
+BiomeID = 175
+Generate = true
+
+/* extra BiomeID used for improved oceans. */
+Ocean2
+BiomeID = 177
+Generate = true
+
+
+/* Sub-Biomes (hills, islands, valleys, lakes) - these will generate if their parent bioime generates */
+
+Desert Island
+BiomeID = 178
+
+Forest Island
+BiomeID = 179
+
+Jungle Island
+BiomeID = 180
+
+Lake
+BiomeID = 181
+
+Lonely Mountain
+BiomeID = 182
+
+Mesa
+BiomeID = 183
+
+Valley
+BiomeID = 184
+
+Oasis
+BiomeID = 185
+
+Volcano Island
+BiomeID = 186
+
+Snow Island
+BiomeID = 187
+
+
+/* vanilla biomes - set to true to see the biome in your Highlands worlds */
+/* note - oceans are controlled by the "more oceans" setting */
+
+Plains
+Generate = true
+
+Desert
+Generate = true
+
+Extreme Hills
+Generate = true
+
+Forest
+Generate = true
+
+Taiga
+Generate = true
+
+Swampland
+Generate = true
+
+Jungle
+Generate = true
+
+Ice Plains
+Generate = true
+
+
+/* More Oceans - change this number if you want more / less oceans in your world (not less than 0).  1 is default. */
+MoreOceans = 1
+
+
+/* saplings */
+
+Acacia
+BlockID = 714
+
+Beech
+BlockID = 715
+
+Canopy Tree
+BlockID = 716
+
+Dead Tree
+BlockID = 717
+
+Great Oak
+BlockID = 718
+
+Fir
+BlockID = 719
+
+Poplar
+BlockID = 720
+
+Redwood
+BlockID = 721
+
+Evergreen Bush
+BlockID = 722
+
+Deciduous Bush
+BlockID = 723
+
+Palm
+BlockID = 724
+
+Ironwood Tree
+BlockID = 725
+
+Mangrove
+BlockID = 726
+
+Ash Tree
+BlockID = 727
+
+/* Additional Settings */
+
+/* Highlands Biome Size - 4 is default world size, 6 is default large biomes size */
+/* size range: 1 - 15 (each 1 increase doubles size of biomes) */
+BiomeSize = 4
+
+/* Highlands Large Biomes Biome Size */
+LBBiomeSize = 6
+
+/* Use Highlands Biomes in Default Worlds (for compatibility with other biome mods) */
+HighlandsBiomesInDefaultWorlds = false
+
+/* Compatibility Setting for Mo' Creatures and other mods that add mobs */
+MobModCompatibility = false
+
+/* Enable Biome Ore Generation - set to false if you don't want anything new underground */
+/* Also can help with compatibility with mods that add new ore generation */
+enableBiomeOreGen = true
+
+/* Last-ditch compatibility setting: */
+/* Turn this to false, moreOceans to 0, Ocean2 generate to false, and IcePlains to false */
+/* This will disable new oceans and all sub-biomes but may help with the "converting world" glitch */
+/* You will have default ice plains and oceans. */
+enableGenLayers = true
+
+
+
+
