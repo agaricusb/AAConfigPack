@@ -1,10 +1,13 @@
 #!/bin/sh
-chmod 000 coremods/GuiAPI*
-chmod 000 mods/*ReiMinimap*
-cp server.properties server.properties.orig
-rm -rf *log*
+
+# run server
+
+# move these client-only mods out of the way since they crash server :(
+mv coremods/GuiAPI* clientmods/
+mv mods/*ReiMinimap* clientmods/
+
+# run server
 #java -Dfml.debugClassLoading=true -Dfml.debugClassLoadingFiner=true -mx2G -jar snapshot.jar
 java -mx2G -jar snapshot.jar
-mv server.properties.orig server.properties
-chmod 644 coremods/GuiAPI*
-chmod 644 mods/*ReiMinimap*
+
+. enable-client-mods.sh
