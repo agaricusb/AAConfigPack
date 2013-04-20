@@ -40,6 +40,7 @@ mcpc:
   flowing-lava-decay: false
   simulate-block-place-event-IDs: []
   simulate-block-place-event-default: false
+  warn-place-no-tile-entity: true
   fake-players:
     com/eloraam/redpower/machine/EntityPlayerFake:
       username: '[RedPower]'
