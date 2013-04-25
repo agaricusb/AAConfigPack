@@ -38,6 +38,7 @@ mcpc:
   dump-materials: false
   infinite-water-source: true
   flowing-lava-decay: false
+  load-chunk-on-request: true
   simulate-block-place-event-IDs: []
   simulate-block-place-event-default: false
   warn-place-no-tile-entity: true
@@ -126,7 +127,7 @@ database:
   password: walrus
   url: jdbc:sqlite:{DIR}{NAME}.db
 orebfuscator:
-  enable: true
+  enable: false
   engine-mode: 2
   update-radius: 2
   disabled-worlds:
