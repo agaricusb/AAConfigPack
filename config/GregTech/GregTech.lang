@@ -329,6 +329,8 @@ languagefile {
     S:item.GT_SmallDusts.80.name=Tiny Pile of Thorium Dust
     S:item.GT_SmallDusts.81.name=Tiny Pile of Plutonium Dust
     S:item.GT_SmallDusts.9.name=Tiny Pile of Saltpeter Dust
+    S:item.GregTech_Sensorcard.name=GregTech Sensor Card
+    S:item.GregTech_Sensorkit.name=GregTech Sensor Kit
     S:item.Iridium_Neutronreflector.name=Iridium Neutron Reflector
     S:item.Iron_Jack_Hammer.name=Iron Jack Hammer
     S:item.Iron_Mortar.name=Iron Mortar
