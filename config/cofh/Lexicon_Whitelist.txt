@@ -1,0 +1,4 @@
+ingotGold
+ingotIron
+oreGold
+oreIron
