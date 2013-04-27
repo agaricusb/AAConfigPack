@@ -96,6 +96,8 @@ item {
 ####################
 
 symbol {
+    B:alpine.enabled=true
+    B:autumn_woods.enabled=true
     B:beach.enabled=true
     B:bioconhuge.enabled=true
     B:bioconlarge.enabled=true
@@ -105,6 +107,7 @@ symbol {
     B:bioconsmall.enabled=true
     B:biocontiled.enabled=true
     B:biocontiny.enabled=true
+    B:birch_forest.enabled=true
     B:caves.enabled=true
     B:colorcloud.enabled=true
     B:colorfog.enabled=true
@@ -114,6 +117,7 @@ symbol {
     B:cryformcry.enabled=true
     B:cryformglow.enabled=true
     B:cryformquartz.enabled=true
+    B:crystal_forest.enabled=true
     B:denseores.enabled=true
     B:desert.enabled=true
     B:deserthills.enabled=true
@@ -125,15 +129,22 @@ symbol {
     B:envscorch.enabled=true
     B:extreme_hills.enabled=true
     B:extreme_hills_edge.enabled=true
+    B:extreme_jungle.enabled=true
     B:flat.enabled=true
     B:forest.enabled=true
+    B:forested_hills.enabled=true
+    B:forested_island.enabled=true
     B:foresthills.enabled=true
     B:frozenocean.enabled=true
     B:frozenriver.enabled=true
+    B:glacier.enabled=true
+    B:green_hills.enabled=true
+    B:green_swamplands.enabled=true
     B:hell.enabled=true
     B:hugetrees.enabled=true
     B:ice_mountains.enabled=true
     B:ice_plains.enabled=true
+    B:ice_wasteland.enabled=true
     B:jungle.enabled=true
     B:junglehills.enabled=true
     B:lakes.enabled=true
@@ -141,7 +152,11 @@ symbol {
     B:lightingbright.enabled=true
     B:lightingdark.enabled=true
     B:lightingnormal.enabled=true
+    B:lush_redwoods.enabled=true
+    B:marsh.enabled=true
+    B:meadow.enabled=true
     B:mineshafts.enabled=true
+    B:mini_jungle.enabled=true
     B:modblack.enabled=true
     B:modblue.enabled=true
     B:modclear.enabled=true
@@ -163,6 +178,7 @@ symbol {
     B:modmat_tile.log.oak.enabled=true
     B:modmat_tile.log.spruce.enabled=true
     B:modmat_tile.netherbrick.enabled=true
+    B:modmat_tile.oilstill.enabled=true
     B:modmat_tile.orecoal.enabled=true
     B:modmat_tile.orediamond.enabled=true
     B:modmat_tile.oregold.enabled=true
@@ -182,19 +198,34 @@ symbol {
     B:modzero.enabled=true
     B:moondark.enabled=true
     B:moonnormal.enabled=true
+    B:mountain_ridge.enabled=true
+    B:mountain_taiga.enabled=true
+    B:mountainous_desert.enabled=true
     B:mushroomisland.enabled=true
     B:mushroomislandshore.enabled=true
+    B:neo_tropical_forest.enabled=true
+    B:neo_tropical_forest_hills.enabled=true
     B:netherfort.enabled=true
     B:nohorizon.enabled=true
     B:nosea.enabled=true
     B:obelisks.enabled=true
     B:ocean.enabled=true
+    B:pine_forest.enabled=true
     B:plains.enabled=true
     B:rainbow.enabled=true
+    B:rainforest.enabled=true
     B:ravines.enabled=true
+    B:redwood_forest.enabled=true
+    B:redwood_forest_hills.enabled=true
+    B:redwood_forest_snow_hills.enabled=true
     B:river.enabled=true
+    B:savanna.enabled=true
+    B:shrubland.enabled=true
     B:sky.enabled=true
     B:skylands.enabled=true
+    B:snow_forest.enabled=true
+    B:snowy_rainforest.enabled=true
+    B:snowy_redwood_forest.enabled=true
     B:starfissure.enabled=true
     B:starsdark.enabled=true
     B:starsendsky.enabled=true
@@ -205,12 +236,15 @@ symbol {
     B:swampland.enabled=true
     B:taiga.enabled=true
     B:taigahills.enabled=true
+    B:temperate_rainforest.enabled=true
     B:tendrils.enabled=true
     B:terrainend.enabled=true
     B:terrainnether.enabled=true
     B:terrainnormal.enabled=true
+    B:tundra.enabled=true
     B:villages.enabled=true
     B:void.enabled=true
+    B:wasteland.enabled=true
     B:weathercloudy.enabled=true
     B:weatherfast.enabled=true
     B:weathernorm.enabled=true
@@ -220,6 +254,8 @@ symbol {
     B:weatherslow.enabled=true
     B:weathersnow.enabled=true
     B:weatherstorm.enabled=true
+    B:woodlands.enabled=true
+    B:wyvernbiome.enabled=true
 }
 
 
