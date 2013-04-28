@@ -2,6 +2,7 @@
 *.jar
 *.swp
 *.lck
+*.png
 .DS_Store
 0config
 0mods
