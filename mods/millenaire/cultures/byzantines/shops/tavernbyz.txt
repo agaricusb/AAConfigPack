@@ -1,3 +1,0 @@
-sells=wine,souvlaki
-buys=grapes
-deliverto=grapes,wine,souvlaki
