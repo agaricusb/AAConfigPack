@@ -4,4 +4,4 @@
 
 mv clientmods/GuiAPI* coremods/
 mv clientmods/*ReiMinimap* mods/
-
+mv mods/Dynmap* servermods/
