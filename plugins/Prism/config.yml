@@ -3,7 +3,7 @@ prism:
   notify-newer-versions: true
   allow-metrics: true
   database:
-    mode: mysql
+    mode: sqlite
     max-pool-connections: 20
     pool-initial-size: 10
     max-idle-connections: 10
