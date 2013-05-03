@@ -400,7 +400,6 @@ move.fall.distance.minimum:3
 move.fall.animation:true
 
 # Minimum fall distance for the smart falling animation (>= 0, >= "move.fall.animation.distance.minimum"
-#!!! Interpreted value "0.0" was out of range, used minimum value "0" instead !!!#
 move.fall.animation.distance.minimum:3
 
 
@@ -699,7 +698,6 @@ move.climb.jump.exhaustion.stop.factor:1
 
 
 # To switch on/off climb up jump exhaustion
-#! Interpreted value "true" is ignored because the default value of property "move.jump.climb.exhaustion" is "false" !#
 move.jump.climb.up.exhaustion:false
 
 # To manipulate the exhaustion increase by a jump up while climbing (>= 0)
@@ -710,7 +708,6 @@ move.jump.climb.up.exhaustion.stop.factor:60
 
 
 # To switch on/off climb back jump exhaustion
-#! Interpreted value "true" is ignored because the default value of property "move.jump.climb.exhaustion" is "false" !#
 move.jump.climb.back.up.exhaustion:false
 
 # To manipulate the exhaustion increase by a jump back while climbing (>= 0)
@@ -721,7 +718,6 @@ move.jump.climb.back.up.exhaustion.stop.factor:60
 
 
 # To switch on/off back climb head jump exhaustion
-#! Interpreted value "true" is ignored because the default value of property "move.jump.climb.exhaustion" is "false" !#
 move.jump.climb.back.head.exhaustion:false
 
 # To manipulate the exhaustion increase by a head jump back while climbing (>= 0)
@@ -754,7 +750,6 @@ move.jump.wall.exhaustion.stop.factor:1
 
 
 # To switch on/off wall up jump exhaustion
-#! Interpreted "e" value "true" is ignored because the "e" value of property "move.jump.wall.exhaustion" is "false" !#
 move.jump.wall.up.exhaustion:true;e:false
 
 # To manipulate the exhaustion increase by a wall up jump (>= 0)
@@ -765,7 +760,6 @@ move.jump.wall.up.exhaustion.stop.factor:60
 
 
 # To switch on/off wall head jump exhaustion
-#! Interpreted "e" value "true" is ignored because the "e" value of property "move.jump.wall.exhaustion" is "false" !#
 move.jump.wall.head.exhaustion:true;e:false
 
 # To manipulate the exhaustion increase by a wall head jump (>= 0)
