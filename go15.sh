@@ -5,6 +5,7 @@
 # move these client-only mods out of the way since they crash server :(
 mv coremods/GuiAPI* clientmods/
 mv mods/*ReiMinimap* clientmods/
+mv mods/*StatusEffectHUD* clientmods/
 mv servermods/* mods/
 
 # run server
