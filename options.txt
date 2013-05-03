@@ -1,5 +1,5 @@
 music:0.0
-sound:0.57042253
+sound:0.0
 invertYMouse:false
 mouseSensitivity:0.5
 fov:1.0
@@ -47,6 +47,11 @@ key_key.back:31
 key_key.right:32
 key_key.jump:57
 key_key.sneak:42
+key_key.climb:29
+key_key.sprint:15
+key_key.config.toggle:67
+key_key.speed.increase:24
+key_key.speed.decrease:23
 key_key.drop:16
 key_key.inventory:18
 key_key.chat:20
@@ -67,7 +72,7 @@ key_key.extra:46
 key_key.charge:47
 key_key.toggle:34
 key_key.release:19
-key_[GC] Player Inventory:5
+key_[GC] Player Inventory:22
 key_[GC] Galaxy Map:50
 key_[GC] Open Spaceship Inventory:33
 key_[GC] Toggle Sensor Goggles Mode:37
