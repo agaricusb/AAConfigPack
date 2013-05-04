@@ -93,6 +93,8 @@ languagefile {
     S:item.GT_Components.64.name=Crafting Module
     S:item.GT_Components.7.name=Solar Panel
     S:item.GT_Components.8.name=Item Transport Valve
+    S:item.GT_Components.80.name=Steam Upgrade
+    S:item.GT_Components.81.name=Steam Tank
     S:item.GT_Components.9.name=Drain
     S:item.GT_Crowbar.name=Crowbar
     S:item.GT_Dusts.0.name=Ender Pearl Dust
@@ -161,6 +163,7 @@ languagefile {
     S:item.GT_Dusts.9.name=Saltpeter Dust
     S:item.GT_Gasses.0.name=Gaseous Hydrogen
     S:item.GT_Gasses.1.name=Gaseous Deuterium
+    S:item.GT_Gasses.127.name=Gaseous Water
     S:item.GT_Gasses.15.name=Gaseous Nitrogen
     S:item.GT_Gasses.2.name=Gaseous Tritium
     S:item.GT_Gasses.3.name=Gaseous Helium
@@ -422,6 +425,7 @@ languagefile {
     S:tile.BlockMetaID_Machine.GT_Microwave.name=Microwave Oven
     S:tile.BlockMetaID_Machine.GT_PlasmaGenerator.name=Plasma Generator
     S:tile.BlockMetaID_Machine.GT_Printer.name=Printing Factory
+    S:tile.BlockMetaID_Machine.GT_Pulverizer.name=Universal Macerator
     S:tile.BlockMetaID_Machine.GT_Pump.name=Advanced Pump
     S:tile.BlockMetaID_Machine.GT_QuantumChest.name=Quantum Chest
     S:tile.BlockMetaID_Machine.GT_QuantumTank.name=Quantum Tank
