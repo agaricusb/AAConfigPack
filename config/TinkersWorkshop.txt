@@ -10,6 +10,7 @@ block {
     I:"Liquid Metal Flowing"=1479
     I:"Liquid Metal Still"=1480
     I:"Metal Storage"=1493
+    I:"Multi Brick"=1481
     I:"Ore Berry One"=1485
     I:"Ore Berry Two"=1486
     I:"Ores Gravel"=1488
@@ -34,6 +35,15 @@ block {
     B:"Enable mod wooden tools"=true
     B:"Keep hunger on death"=true
     B:"Keep levels on death"=true
+}
+
+
+####################
+# equipables
+####################
+
+equipables {
+    I:"Heart Canister"=14105
 }
 
 
