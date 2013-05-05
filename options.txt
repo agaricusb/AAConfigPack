@@ -69,7 +69,7 @@ key_MoCreatures GUI:66
 key_Gravi Fly Key:33
 key_Open CraftGuide:34
 key_Highlight Tips:62
-key_camping.craftKey:19
+key_camping.craftKey:46
 key_camping.backpackKey:36
 key_key.extra:46
 key_key.charge:47
