@@ -1,7 +1,7 @@
 Menu Key: P
 Toggle Enable: None
 Toggle Render Type: None
-Toggle Zoom: Z
+Toggle Zoom: None
 Toggle Large Map: X
 Toggle Large Map Label: None
 Toggle Waypoints Visible: Comma
