@@ -95,7 +95,7 @@ key_Inventory key:19
 key_Bomb Key:47
 key_Gun Key:29
 key_Control Switch key:46
-key_Teams Menu Key:34
+key_Teams Menu Key:64
 key_Teams Scores Key:35
 key_Open Muse Keybind GUI:37
 key_Go Down (Flight Control):44
