@@ -73,8 +73,8 @@ key_camping.craftKey:46
 key_camping.backpackKey:36
 key_key.extra:46
 key_key.charge:47
-key_key.toggle:34
-key_key.release:19
+key_key.toggle:22
+key_key.release:39
 key_[GC] Galaxy Map:50
 key_[GC] Open Spaceship Inventory:33
 key_[GC] Toggle Sensor Goggles Mode:37
