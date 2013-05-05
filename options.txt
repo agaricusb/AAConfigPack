@@ -75,7 +75,7 @@ key_key.extra:46
 key_key.charge:47
 key_key.toggle:22
 key_key.release:39
-key_[GC] Galaxy Map:50
+key_[GC] Galaxy Map:65
 key_[GC] Open Spaceship Inventory:33
 key_[GC] Toggle Sensor Goggles Mode:37
 key_[GC] Vehicle Forward Key:17
