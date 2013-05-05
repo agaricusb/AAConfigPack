@@ -50,8 +50,8 @@ key_key.sneak:42
 key_key.climb:29
 key_key.sprint:15
 key_key.config.toggle:68
-key_key.speed.increase:24
-key_key.speed.decrease:23
+key_key.speed.increase:26
+key_key.speed.decrease:27
 key_key.drop:16
 key_key.inventory:18
 key_key.chat:20
