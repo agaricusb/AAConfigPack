@@ -1,4 +1,4 @@
-Menu Key: M
+Menu Key: P
 Toggle Enable: None
 Toggle Render Type: None
 Toggle Zoom: Z
