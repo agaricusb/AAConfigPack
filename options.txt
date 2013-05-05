@@ -62,7 +62,7 @@ key_key.armor:23
 key_ALT Key:56
 key_Boost Key:48
 key_Mode Switch Key:50
-key_Side Inventory Key:46
+key_Side Inventory Key:49
 key_MoCreatures Jump:57
 key_MoCreatures Dismount:33
 key_MoCreatures GUI:66
