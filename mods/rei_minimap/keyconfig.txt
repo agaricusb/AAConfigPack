@@ -4,8 +4,8 @@ Toggle Render Type: None
 Toggle Zoom: Z
 Toggle Large Map: X
 Toggle Large Map Label: None
-Toggle Waypoints Visible: None
-Toggle Waypoints Marker: None
+Toggle Waypoints Visible: Comma
+Toggle Waypoints Marker: Period
 Toggle Waypoints Dimension: None
 Toggle Entities Radar: None
 Set Waypoint: C
