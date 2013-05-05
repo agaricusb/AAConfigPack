@@ -58,6 +58,7 @@ key_key.chat:20
 key_key.playerlist:15
 key_key.pickItem:-98
 key_key.command:53
+key_key.armor:23
 key_ALT Key:56
 key_Boost Key:48
 key_Mode Switch Key:50
@@ -67,12 +68,13 @@ key_MoCreatures Dismount:33
 key_MoCreatures GUI:66
 key_Gravi Fly Key:33
 key_Open CraftGuide:34
-key_Crafting Key:19
+key_Highlight Tips:62
+key_camping.craftKey:19
+key_camping.backpackKey:36
 key_key.extra:46
 key_key.charge:47
 key_key.toggle:34
 key_key.release:19
-key_[GC] Player Inventory:22
 key_[GC] Galaxy Map:50
 key_[GC] Open Spaceship Inventory:33
 key_[GC] Toggle Sensor Goggles Mode:37
