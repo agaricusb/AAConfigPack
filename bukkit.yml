@@ -27,7 +27,7 @@ settings:
   spam-exclusions:
   - /skill
   tab-ping: false
-  timeout-time: 10
+  timeout-time: 30
   restart-on-crash: false
   restart-script-location: start.bat
   bungee-proxies:
@@ -36,6 +36,7 @@ settings:
 mcpc:
   connection-logging: false
   dump-materials: false
+  world-leak-debug: false
   infinite-water-source: true
   flowing-lava-decay: false
   load-chunk-on-request: true
@@ -54,10 +55,13 @@ mcpc:
       debug: false
       custom-class-loader: true
       use-guava10: true
+      remap-nms-v1_5_R3: true
       remap-nms-v1_5_R2: true
       remap-nms-v1_5_R1: true
       remap-nms-v1_4_R1: true
       remap-nms-v1_4_6: true
+      remap-obc-v1_5_R3: false
+      remap-obc-v1_5_R2: false
       remap-obc-v1_5_R1: true
       remap-obc-v1_4_R1: false
       remap-obc-v1_4_6: false
