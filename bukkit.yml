@@ -71,6 +71,7 @@ mcpc:
       plugin-inheritance: true
       remap-reflect-field: true
       remap-reflect-class: true
+      remap-allow-future: false
 world-settings:
   default:
     growth-chunks-per-tick: 650
