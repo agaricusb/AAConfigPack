@@ -95,6 +95,10 @@ languagefile {
     S:item.GT_Components.8.name=Item Transport Valve
     S:item.GT_Components.80.name=Steam Upgrade
     S:item.GT_Components.81.name=Steam Tank
+    S:item.GT_Components.82.name=Redstone Receiver (IN)
+    S:item.GT_Components.83.name=Redstone Receiver (OUT)
+    S:item.GT_Components.84.name=Redstone Transmitter (IN)
+    S:item.GT_Components.85.name=Redstone Transmitter (OUT)
     S:item.GT_Components.9.name=Drain
     S:item.GT_Crowbar.name=Crowbar
     S:item.GT_Dusts.0.name=Ender Pearl Dust
@@ -434,6 +438,7 @@ languagefile {
     S:tile.BlockMetaID_Machine.GT_RedstoneCircuitBlock.name=Redstone Circuit Block
     S:tile.BlockMetaID_Machine.GT_RedstoneDisplayBlock.name=Redstone Display
     S:tile.BlockMetaID_Machine.GT_RedstoneNoteBlock.name=Redstone Note Block
+    S:tile.BlockMetaID_Machine.GT_RedstoneScaleBlock.name=Redstone Scale
     S:tile.BlockMetaID_Machine.GT_RegulatorAdvanced.name=Advanced Regulator
     S:tile.BlockMetaID_Machine.GT_RockBreaker.name=Electric Rock Breaker
     S:tile.BlockMetaID_Machine.GT_Safe.name=Advanced Safe
