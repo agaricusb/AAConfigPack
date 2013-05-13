@@ -35,6 +35,8 @@ block {
     B:"Enable mod wooden tools"=true
     B:"Keep hunger on death"=true
     B:"Keep levels on death"=true
+    B:"Remove Overworld void fog"=true
+    B:"Turn water clear"=true
 }
 
 
@@ -44,6 +46,7 @@ block {
 
 equipables {
     I:"Heart Canister"=14105
+    I:"Heavy Helmet"=14106
 }
 
 
@@ -84,6 +87,15 @@ general {
     I:"Tool Rod"=14021
     I:"Tool Shard"=14022
     I:"Wood Pattern"=14023
+}
+
+
+####################
+# superfun
+####################
+
+superfun {
+    B:"All the world is Superfun"=false
 }
 
 
