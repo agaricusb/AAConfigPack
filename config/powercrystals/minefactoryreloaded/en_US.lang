@@ -30,6 +30,11 @@ tile.mfr.machine.autodisenchanter.name = Auto-Disenchanter
 tile.mfr.machine.slaughterhouse.name = Slaughterhouse
 tile.mfr.machine.meatpacker.name = Meat Packer
 tile.mfr.machine.enchantmentrouter.name = Enchantment Router
+tile.mfr.machine.laserdrill.name = Laser Drill
+tile.mfr.machine.laserdrillprecharger.name = Laser Drill Precharger
+tile.mfr.machine.autoanvil.name = Auto-Anvil
+tile.mfr.machine.blocksmasher.name = Block Smasher
+tile.mfr.machine.rednote.name = RedNote Block
 
 tile.mfr.conveyor.default.name = Conveyor Belt
 tile.mfr.conveyor.white.name = Conveyor Belt (White)
@@ -119,6 +124,8 @@ tile.mfr.decorativestone.white.paved.name = Paved Whitestone
 
 tile.ice.unmelting.name = Ice (Unmelting)
 
+tile.mfr.vinescaffold.name = Vine Scaffolding
+
 tile.mfr.rubberwood.sapling.name = Rubber Sapling
 tile.mfr.rubberwood.log.name = Rubber Wood
 tile.mfr.rubberwood.leaves.name = Rubber Leaves
@@ -161,6 +168,7 @@ item.mfr.syringe.zombie.name = Zombie Syringe
 item.mfr.record.blank.name = Blank Record
 item.mfr.safarinet.reusable.name = Safari Net (Reusable)
 item.mfr.safarinet.singleuse.name = Safari Net (Single-Use)
+item.mfr.safarinet.jailer.name = Jailer's Safari Net
 item.mfr.safarinet.launcher.name = Safari Net Launcher
 item.mfr.machineblock.name = Factory Machine Block
 item.mfr.sugarcharcoal.name = Sugar Charcoal
