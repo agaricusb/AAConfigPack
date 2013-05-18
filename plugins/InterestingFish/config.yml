@@ -1,0 +1,26 @@
+baseWeight: 0.5
+minWeight: 0.01
+percentDescriptorChance: 75.0
+weightLabel: '&bWeight: &f'
+weightUnit: lbs
+caughtByLabel: '&6Caught by: &f'
+dateLabel: '&6'
+dateFormat: MM/dd/yy hh:mm
+descriptorList:
+- text: '&aBig'
+  rollWeight: 1
+  maxWeightModifier: 20.0
+  minWeightModifier: 5.0
+- text: '&aTiny'
+  rollWeight: 1
+  maxWeightModifier: 0.0
+  minWeightModifier: -20.0
+breedsList:
+- text: Trout
+  rollWeight: 1
+  maxWeightModifier: 20.0
+  minWeightModifier: 1.0
+- text: Tuna
+  rollWeight: 1
+  maxWeightModifier: 50.0
+  minWeightModifier: 20.0
