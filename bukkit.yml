@@ -40,8 +40,6 @@ mcpc:
   infinite-water-source: true
   flowing-lava-decay: false
   load-chunk-on-request: true
-  simulate-block-place-event-IDs: []
-  simulate-block-place-event-default: false
   warn-place-no-tile-entity: true
   fake-players:
     com/eloraam/redpower/machine/EntityPlayerFake:
@@ -72,6 +70,8 @@ mcpc:
       remap-reflect-field: true
       remap-reflect-class: true
       remap-allow-future: false
+  simulate-block-place-event-IDs: []
+  simulate-block-place-event-default: false
 world-settings:
   default:
     growth-chunks-per-tick: 650
