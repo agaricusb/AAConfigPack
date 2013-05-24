@@ -38,7 +38,7 @@ mcpc:
   dump-materials: false
   world-leak-debug: false
   infinite-water-source: true
-  flowing-lava-decay: false
+  flowing-lava-decay: true
   load-chunk-on-request: true
   warn-place-no-tile-entity: true
   fake-players:
