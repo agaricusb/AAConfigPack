@@ -1046,7 +1046,7 @@ move.config.key.name:e:Easy;h:Hard;m:Medium
 # =====================================================================
 
 # Whether the players on this server should be forced to use the configurations on this server
-move.server.config:false
+move.server.config:true
 
 
 # The option configuration to start the player's next minecraft survival game with (can also be modified via in-game option configuration toggling)
@@ -1063,7 +1063,7 @@ move.server.speed.user.exponents:
 
 
 # Whether all players on this server should be forced to use the same global configuration (Relevant only if "move.server.config" is true)
-move.global.config:false
+move.global.config:true
 
 
 # The names of the users that have the right to change the global configuraton in-game, entries seperated by ','
