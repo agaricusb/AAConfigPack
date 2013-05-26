@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/sh -x
 
 # run server
 
@@ -10,6 +10,8 @@ mv servermods/* mods/
 
 # run server
 #java -Dfml.debugClassLoading=true -Dfml.debugClassLoadingFiner=true -mx2G -jar snapshot.jar
+cp snapshot.jar /tmp
+mv snapshot-next.jar snapshot.jar
 java -mx4G -XX:MaxPermSize=256m -jar snapshot.jar
 #java -mx4G -XX:MaxPermSize=256m -jar mcpc-plus-151compat-1.5.2-R0.2-SNAPSHOT-f686-C0.jar
 #java -mx2G -jar 354+sm13.jar
