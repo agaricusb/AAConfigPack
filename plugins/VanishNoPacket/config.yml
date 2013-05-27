@@ -11,7 +11,7 @@ hooks:
   dynmap: false
   JSONAPI: false
   spoutcraft: false
-checkupdates: true
+checkupdates: false
 permissionsupdates:
   checkonworldchange: false
 effects:
