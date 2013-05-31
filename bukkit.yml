@@ -70,6 +70,10 @@ mcpc:
       remap-reflect-field: true
       remap-reflect-class: true
       remap-allow-future: false
+  bukkit-to-forge-mappings:
+    world_nether: dim-1
+    world_the_end: dim1
+    world_twilightforest: dim7
   simulate-block-place-event-IDs: []
   simulate-block-place-event-default: false
 world-settings:
