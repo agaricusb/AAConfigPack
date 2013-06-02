@@ -100,6 +100,49 @@ world-settings:
     entity-tracking-range-misc: 32
     entity-tracking-range-max: 64
     info: false
+    worldgen-modbspkrsCore-ModLoaderWorldGenerator: true
+    worldgen-CoFHWorld-WorldHandler: true
+    worldgen-IC2-IC2: true
+    worldgen-modAnimalBikes-ModLoaderWorldGenerator: true
+    worldgen-ExtrabiomesXL-CatTailGenerator: true
+    worldgen-ExtrabiomesXL-FlowerGenerator: true
+    worldgen-ExtrabiomesXL-LeafPileGenerator: true
+    worldgen-ExtrabiomesXL-MarshGenerator: true
+    worldgen-ExtrabiomesXL-MountainDesertGenerator: true
+    worldgen-ExtrabiomesXL-MountainRidgeGenerator: true
+    worldgen-ExtrabiomesXL-VanillaFloraGenerator: true
+    worldgen-ExtrabiomesXL-LegendOakGenerator: true
+    worldgen-Thaumcraft-ThaumcraftWorldGenerator: true
+    worldgen-TConstruct-TBaseWorldGenerator: true
+    worldgen-modSmartMoving-ModLoaderWorldGenerator: true
+    worldgen-modSmartRender-ModLoaderWorldGenerator: true
+    keeploaded-environment-normal: true
+    keeploaded-environment-nether: true
+    keeploaded-environment-the_end: false
+    keeploaded-environment-myst: false
+    keeploaded-environment-gccore: false
+    keeploaded-environment-gcmoon: false
+    keeploaded-environment-promised: false
+    worldgen-ExtrabiomesXL-QuicksandGenerator: true
+    worldgen-Forestry-WorldGenerator: true
+    keeploaded-environment-twilightforest: false
+    worldgen-DartCraft-DartWorldGen: true
+    worldgen-DimensionalDoors-RiftGenerator: true
+    keeploaded-environment-pocket: false
+    keeploaded-environment-limbo: false
+    keeploaded-environment-wyvernend: false
+    worldgen-LegendaryBeasts-NestGenerator: true
+    worldgen-ForgottenNature-FNWorldGenerator: true
+    worldgen-ModularForceFieldSystem-MFFSWorldGenerator: true
+    worldgen-MineFactoryReloaded-MineFactoryReloadedWorldGen: true
+    worldgen-AppliedEnergistics-AppEng: true
+    worldgen-NetherOres-NetherOresWorldGenHandler: true
+    worldgen-Netherrocks-NetherrocksGenerator: true
+    worldgen-ASRuins-RuinsWorldGenerator: true
+    worldgen-camping-WorldGen: true
+    worldgen-ExtrabiomesXL-OilGenerator: true
+    worldgen-Forestry-ModuleGeneration: true
+    worldgen-GregTechAddon-GT_Worldgenerator: true
   world:
     growth-chunks-per-tick: 1000
   world_nether:
