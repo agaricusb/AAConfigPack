@@ -113,8 +113,11 @@ symbol {
     B:biocontiled.enabled=true
     B:biocontiny.enabled=true
     B:birch_forest.enabled=true
+    B:blessed_bog.enabled=true
     B:bog.enabled=true
+    B:boneyard.enabled=true
     B:boreal_forest.enabled=true
+    B:brushland.enabled=true
     B:canyon.enabled=true
     B:caves.enabled=true
     B:chaparral.enabled=true
@@ -126,6 +129,8 @@ symbol {
     B:colorsky.enabled=true
     B:colorskynight.enabled=true
     B:coniferous_forest.enabled=true
+    B:coral_reef.enabled=true
+    B:corrupted_sands.enabled=true
     B:crag.enabled=true
     B:cryformcry.enabled=true
     B:cryformglow.enabled=true
@@ -167,6 +172,7 @@ symbol {
     B:garden.enabled=true
     B:glacier.enabled=true
     B:grassland.enabled=true
+    B:gravel_beach.enabled=true
     B:green_hills.enabled=true
     B:green_swamplands.enabled=true
     B:grove.enabled=true
@@ -174,6 +180,7 @@ symbol {
     B:hell.enabled=true
     B:highland.enabled=true
     B:highlands.enabled=true
+    B:hot_springs.enabled=true
     B:hugetrees.enabled=true
     B:ice_mountains.enabled=true
     B:ice_plains.enabled=true
@@ -183,6 +190,7 @@ symbol {
     B:jade_cliffs.enabled=true
     B:jungle.enabled=true
     B:junglehills.enabled=true
+    B:kelp_forest.enabled=true
     B:lake_border.enabled=true
     B:lakes.enabled=true
     B:lavalakes.enabled=true
@@ -193,6 +201,7 @@ symbol {
     B:lush_desert.enabled=true
     B:lush_redwoods.enabled=true
     B:lush_swamp.enabled=true
+    B:majestic_meadow.enabled=true
     B:major_feature.enabled=true
     B:mangrove.enabled=true
     B:maple_woods.enabled=true
@@ -254,6 +263,7 @@ symbol {
     B:mystic_grove.enabled=true
     B:neo_tropical_forest.enabled=true
     B:neo_tropical_forest_hills.enabled=true
+    B:nether.enabled=true
     B:netherfort.enabled=true
     B:nohorizon.enabled=true
     B:nosea.enabled=true
@@ -264,9 +274,12 @@ symbol {
     B:orchard.enabled=true
     B:origin_valley.enabled=true
     B:outback.enabled=true
+    B:overgrown_beach.enabled=true
     B:pasture.enabled=true
+    B:phantasmagoric_inferno.enabled=true
     B:pine_forest.enabled=true
     B:plains.enabled=true
+    B:polar.enabled=true
     B:prairie.enabled=true
     B:promised_land.enabled=true
     B:quagmire.enabled=true
@@ -286,7 +299,10 @@ symbol {
     B:shrubland.enabled=true
     B:sky.enabled=true
     B:skylands.enabled=true
+    B:sludgepit.enabled=true
     B:snow_forest.enabled=true
+    B:snowy_coniferous_forest.enabled=true
+    B:snowy_dead_forest.enabled=true
     B:snowy_forest.enabled=true
     B:snowy_rainforest.enabled=true
     B:snowy_redwood_forest.enabled=true
@@ -310,6 +326,7 @@ symbol {
     B:terrainnether.enabled=true
     B:terrainnormal.enabled=true
     B:thicket.enabled=true
+    B:timber.enabled=true
     B:tropical_rainforest.enabled=true
     B:tropics.enabled=true
     B:tundra.enabled=true
@@ -318,6 +335,7 @@ symbol {
     B:twilight_lake.enabled=true
     B:twilight_stream.enabled=true
     B:twilight_swamp.enabled=true
+    B:undergarden.enabled=true
     B:villages.enabled=true
     B:void.enabled=true
     B:volcano.enabled=true
@@ -332,6 +350,7 @@ symbol {
     B:weathersnow.enabled=true
     B:weatherstorm.enabled=true
     B:wetland.enabled=true
+    B:wonderous_woods.enabled=true
     B:woodland.enabled=true
     B:woodlands.enabled=true
     B:wyvernbiome.enabled=true
