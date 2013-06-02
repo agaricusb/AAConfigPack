@@ -6,6 +6,8 @@
 mv coremods/GuiAPI* clientmods/
 mv mods/*ReiMinimap* clientmods/
 mv mods/*StatusEffectHUD* clientmods/
+mv mods/HighlightTips* clientmods/ # until I fix requiring server-side
+
 mv servermods/* mods/
 
 # run server
