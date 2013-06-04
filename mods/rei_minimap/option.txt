@@ -1,6 +1,6 @@
 Minimap: Enable
 Render Type: Surface
-Death Point: Disable
+Death Point: Enable
 Auto Update Check: Disable
 Map Shape: Square
 Texture: Rei Minimap
