@@ -1,0 +1,59 @@
+var:
+  debug: false
+save:
+  enabled: true
+  interval: 900
+  broadcast: true
+  warn: false
+  warntime:
+  - 0
+backup:
+  enabled: false
+  interval: 21600
+  worlds:
+  - '*'
+  MaxNumberOfWorldsBackups: 30
+  pluginsfolder: false
+  MaxNumberOfPluginsBackups: 30
+  excludefolders: []
+  broadcast: true
+  toextfolders: false
+  disableintfolder: true
+  extfolders: []
+  zip: false
+  warn: false
+  warntime:
+  - 0
+purge:
+  enabled: false
+  interval: 86400
+  awaytime: 2592000
+  broadcast: true
+  slowpurge: true
+  wg:
+    enabled: true
+    regenpurgedregion: false
+  lwc:
+    enabled: true
+    deletepurgedblocks: false
+  mvinv:
+    enabled: true
+  dat:
+    enabled: true
+crashrestart:
+  enabled: false
+  scriptpath: start.sh
+  timeout: 60
+  juststop: false
+autorestart:
+  enabled: false
+  broadcast: true
+  time: []
+  countdown:
+    enabled: true
+    seconds: 20
+  scriptpath: start.sh
+  juststop: false
+locale:
+  switchtolangfile: false
+  langfilesuffix: ru

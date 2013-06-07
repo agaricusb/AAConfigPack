@@ -1,0 +1,16 @@
+broadcast:
+  pre: '&9AutoSaving'
+  post: '&9AutoSave Complete'
+broadcastbackup:
+  pre: '&9AutoBackuping'
+  post: '&9AutoBackup Complete'
+broadcastpurge:
+  pre: '&9AutoPurging'
+  post: '&9AutoPurge Complete'
+warning:
+  save: '&9Warning, AutoSave will commence soon.'
+  backup: '&9Warning, AutoBackup will commence soon'
+insufficentpermissions: '&cYou do not have access to that command.'
+autorestart:
+  restarting: '&9Server is restarting'
+  countdown: '&9Server will restart in {SECONDS} seconds'
