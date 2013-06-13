@@ -8,7 +8,7 @@ save:
   warntime:
   - 0
 backup:
-  enabled: false
+  enabled: true
   interval: 21600
   worlds:
   - '*'
