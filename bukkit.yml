@@ -196,6 +196,7 @@ mcpc:
     jammyfurniture: INFO
     CustomSpawner: INFO
     MoCreatures: INFO
+    RancraftPenguins: INFO
 world-settings:
   default:
     growth-chunks-per-tick: 650
