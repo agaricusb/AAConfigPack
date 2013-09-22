@@ -199,6 +199,7 @@ mcpc:
     RancraftPenguins: INFO
     mod_AnimalBikes: INFO
     ElementalCreepers: INFO
+    weaponmod: INFO
 world-settings:
   default:
     growth-chunks-per-tick: 650
