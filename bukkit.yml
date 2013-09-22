@@ -193,6 +193,7 @@ mcpc:
     com-sk89q-wepif-PermissionsResolverManager: INFO
     Minecraft-WorldEdit: INFO
     ExtrabiomesXL: INFO
+    jammyfurniture: INFO
 world-settings:
   default:
     growth-chunks-per-tick: 650
