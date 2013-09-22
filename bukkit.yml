@@ -215,6 +215,7 @@ mcpc:
     craftguide: INFO
     LegendaryBeasts: INFO
     Dynmap: INFO
+    camping: INFO
 world-settings:
   default:
     growth-chunks-per-tick: 650
