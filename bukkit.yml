@@ -35,13 +35,13 @@ settings:
   texture-resolution: 16
   metrics-enable: true
 mcpc:
-  connection-logging: false
+  connection-logging: true
   dump-materials: false
   world-leak-debug: false
   infinite-water-source: true
   flowing-lava-decay: true
   load-chunk-on-request: false
-  warn-place-no-tile-entity: true
+  warn-place-no-tile-entity: false
   banned-item-IDs: []
   enable-banned-items: false
   player-speed-max:
