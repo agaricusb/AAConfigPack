@@ -194,6 +194,8 @@ mcpc:
     Minecraft-WorldEdit: INFO
     ExtrabiomesXL: INFO
     jammyfurniture: INFO
+    CustomSpawner: INFO
+    MoCreatures: INFO
 world-settings:
   default:
     growth-chunks-per-tick: 650
