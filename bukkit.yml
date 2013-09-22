@@ -218,6 +218,10 @@ mcpc:
     camping: INFO
     mod_SmartMoving: INFO
     mod_SmartRender: INFO
+    BinnieCore: INFO
+    ExtraBees: INFO
+    ExtraTrees: INFO
+    extrabees: INFO
 world-settings:
   default:
     growth-chunks-per-tick: 650
@@ -287,6 +291,7 @@ world-settings:
     worldgen-GregTechAddon-GT_Worldgenerator: true
     worldgen-DimDoors-RiftGenerator: true
     keeploaded-environment-gccorespacestation: false
+    worldgen-BinnieCore-ModuleGeneration: true
   world:
     growth-chunks-per-tick: 1000
   world_nether:
