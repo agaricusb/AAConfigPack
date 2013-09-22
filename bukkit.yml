@@ -159,6 +159,7 @@ mcpc:
     DimDoors: INFO
     GregTech_Addon: INFO
     fml-ModTracker: INFO
+    ForgottenNature: INFO
 world-settings:
   default:
     growth-chunks-per-tick: 650
