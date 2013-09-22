@@ -207,6 +207,7 @@ mcpc:
     barrels: INFO
     GalacticraftCore: INFO
     Galacticraft: INFO
+    PetBat: INFO
 world-settings:
   default:
     growth-chunks-per-tick: 650
