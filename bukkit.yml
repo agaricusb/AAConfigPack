@@ -168,6 +168,30 @@ mcpc:
     InfiniTubes: INFO
     LiquidXP: INFO
     Tubestuff: INFO
+    keepMyStats: INFO
+    HighlightTips: INFO
+    inventorytweaks: INFO
+    MiscConfiguration: INFO
+    TrailMix: INFO
+    bau5_ProjectBench: INFO
+    com-google-common-eventbus-EventBus-HighlightTips: INFO
+    com-google-common-eventbus-EventBus-IC2NuclearControl: INFO
+    multiworld-MultiWorldPlugin: INFO
+    de-dustplanet-silkspawners-SilkSpawners: INFO
+    com-sk89q-worldedit-bukkit-WorldEditPlugin: INFO
+    net-shotbow-interestingfish-InterestingFish: INFO
+    com-lishid-openinv-OpenInv: INFO
+    me-dsh105-enchantmore-EnchantMore: INFO
+    agaricus-plugins-IncompatiblePlugin-SamplePlugin: INFO
+    autosaveworld-AutoSaveWorld: INFO
+    com-earth2me-essentials-Essentials: INFO
+    com-earth2me-essentials-protect-EssentialsProtect: INFO
+    com-earth2me-essentials-spawn-EssentialsSpawn: INFO
+    org-kitteh-vanish-VanishPlugin: INFO
+    com-earth2me-essentials-chat-EssentialsChat: INFO
+    Minecraft-multiworld: INFO
+    com-sk89q-wepif-PermissionsResolverManager: INFO
+    Minecraft-WorldEdit: INFO
 world-settings:
   default:
     growth-chunks-per-tick: 650
