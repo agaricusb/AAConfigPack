@@ -211,6 +211,7 @@ mcpc:
     UsefulFood: INFO
     AS_Ruins: INFO
     AS_UpdateCheck: INFO
+    LavaMonsters: INFO
 world-settings:
   default:
     growth-chunks-per-tick: 650
