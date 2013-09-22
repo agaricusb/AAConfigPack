@@ -204,6 +204,7 @@ mcpc:
     secretroomsmod: INFO
     EasyCrafting: INFO
     Torched: INFO
+    barrels: INFO
 world-settings:
   default:
     growth-chunks-per-tick: 650
