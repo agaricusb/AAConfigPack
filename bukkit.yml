@@ -160,6 +160,14 @@ mcpc:
     GregTech_Addon: INFO
     fml-ModTracker: INFO
     ForgottenNature: INFO
+    ImmibisMicroblocks: INFO
+    ImmibisMicroblocksInstallCheck: INFO
+    AdvancedMachines: INFO
+    DimensionalAnchors: INFO
+    ImmibisCore: INFO
+    InfiniTubes: INFO
+    LiquidXP: INFO
+    Tubestuff: INFO
 world-settings:
   default:
     growth-chunks-per-tick: 650
