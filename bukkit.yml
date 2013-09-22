@@ -209,6 +209,8 @@ mcpc:
     Galacticraft: INFO
     PetBat: INFO
     UsefulFood: INFO
+    AS_Ruins: INFO
+    AS_UpdateCheck: INFO
 world-settings:
   default:
     growth-chunks-per-tick: 650
