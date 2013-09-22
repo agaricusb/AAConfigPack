@@ -224,6 +224,7 @@ mcpc:
     extrabees: INFO
     mod_bspkrsCore: INFO
     bspkrsCore: INFO
+    FlansMod: INFO
 world-settings:
   default:
     growth-chunks-per-tick: 650
