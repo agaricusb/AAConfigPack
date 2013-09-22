@@ -222,6 +222,8 @@ mcpc:
     ExtraBees: INFO
     ExtraTrees: INFO
     extrabees: INFO
+    mod_bspkrsCore: INFO
+    bspkrsCore: INFO
 world-settings:
   default:
     growth-chunks-per-tick: 650
