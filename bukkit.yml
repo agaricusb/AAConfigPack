@@ -214,6 +214,7 @@ mcpc:
     LavaMonsters: INFO
     craftguide: INFO
     LegendaryBeasts: INFO
+    Dynmap: INFO
 world-settings:
   default:
     growth-chunks-per-tick: 650
