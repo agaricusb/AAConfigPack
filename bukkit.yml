@@ -197,6 +197,7 @@ mcpc:
     CustomSpawner: INFO
     MoCreatures: INFO
     RancraftPenguins: INFO
+    mod_AnimalBikes: INFO
 world-settings:
   default:
     growth-chunks-per-tick: 650
