@@ -201,6 +201,7 @@ mcpc:
     ElementalCreepers: INFO
     weaponmod: INFO
     Netherrocks: INFO
+    secretroomsmod: INFO
 world-settings:
   default:
     growth-chunks-per-tick: 650
