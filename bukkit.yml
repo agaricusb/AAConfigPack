@@ -216,6 +216,8 @@ mcpc:
     LegendaryBeasts: INFO
     Dynmap: INFO
     camping: INFO
+    mod_SmartMoving: INFO
+    mod_SmartRender: INFO
 world-settings:
   default:
     growth-chunks-per-tick: 650
