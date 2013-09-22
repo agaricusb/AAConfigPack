@@ -202,6 +202,7 @@ mcpc:
     weaponmod: INFO
     Netherrocks: INFO
     secretroomsmod: INFO
+    EasyCrafting: INFO
 world-settings:
   default:
     growth-chunks-per-tick: 650
