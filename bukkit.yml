@@ -205,6 +205,8 @@ mcpc:
     EasyCrafting: INFO
     Torched: INFO
     barrels: INFO
+    GalacticraftCore: INFO
+    Galacticraft: INFO
 world-settings:
   default:
     growth-chunks-per-tick: 650
@@ -273,6 +275,7 @@ world-settings:
     worldgen-Forestry-ModuleGeneration: true
     worldgen-GregTechAddon-GT_Worldgenerator: true
     worldgen-DimDoors-RiftGenerator: true
+    keeploaded-environment-gccorespacestation: false
   world:
     growth-chunks-per-tick: 1000
   world_nether:
