@@ -212,6 +212,7 @@ mcpc:
     AS_Ruins: INFO
     AS_UpdateCheck: INFO
     LavaMonsters: INFO
+    craftguide: INFO
 world-settings:
   default:
     growth-chunks-per-tick: 650
