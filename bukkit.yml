@@ -200,6 +200,7 @@ mcpc:
     mod_AnimalBikes: INFO
     ElementalCreepers: INFO
     weaponmod: INFO
+    Netherrocks: INFO
 world-settings:
   default:
     growth-chunks-per-tick: 650
