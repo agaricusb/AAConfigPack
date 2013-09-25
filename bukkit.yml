@@ -295,6 +295,7 @@ world-settings:
     worldgen-DimDoors-RiftGenerator: true
     keeploaded-environment-gccorespacestation: false
     worldgen-BinnieCore-ModuleGeneration: true
+    worldgen-MagicBees-WorldGeneratorHandler: true
   world:
     growth-chunks-per-tick: 1000
   world_nether:
