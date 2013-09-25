@@ -961,7 +961,7 @@ move.hunger.normal.gain.factor:1
 
 
 # Basic hunger per tick (>= 0)
-move.hunger.always.gain:0;h:0.005
+move.hunger.always.gain:0;h:0.0050
 
 
 
@@ -1071,3 +1071,131 @@ move.global.config.right.user.names:
 
 # The names of the users that have the right to change the global speed in-game, entries seperated by ','
 move.global.speed.right.user.names:
+
+
+# Whether the current local user has the right to change the global configuration in-game (despite of the names listed in "move.global.config.right.user.names"
+move.global.config.right.local.user:true
+
+# Whether the current local user has the right to change the global speed in-game (despite of the names listed in "move.global.config.right.user.names"
+move.global.speed.right.local.user:true
+
+
+
+
+# =====================================================================
+# Viewpoint perspective
+# ---------------------
+# Below you find the options to manipulate the viewpoint perspective
+# =====================================================================
+
+# Fading speed factor between the different perspectives (>= 0.1, <= 1, set to '1' to switch off)
+move.perspective.fade.factor:0.5
+
+# Standard sprinting perspective (set to '0' to switch off)
+move.perspective.run.factor:1
+
+# Smart on ground sprinting perspective (set to '0' to switch off)
+move.perspective.sprint.factor:1.5
+
+
+
+
+# =====================================================================
+# User interface
+# --------------
+# Below you find the options to manipulate Smart Moving's user
+# interface
+# =====================================================================
+
+# The maximum number of ticks between two clicks to trigger a side or back jump (>= 2)
+move.jump.angle.double.click.ticks:3
+
+
+# Whether wall jumping should be triggered by single or double clicking (and then press and holding) the jump button
+move.jump.wall.double.click:true
+
+# The maximum number of ticks between two clicks to trigger a wall jump (>= 2, depends on "move.jump.wall.double.click")
+move.jump.wall.double.click.ticks:3
+
+
+# Whether pressing or not pressing the grab button while climb jumping back results in a head jump
+move.jump.climb.back.head.on.grab:true
+
+
+# Whether to display the exhaustion bar in the game overlay
+move.gui.exhaustion.bar:true
+
+# Whether to display the jump charge bar in the game overlay
+move.gui.jump.charge.bar:true
+
+
+# To switch on/off sneak toggling
+move.sneak.toggle:false
+
+# To switch on/off crawl toggling
+move.crawl.toggle:false
+
+
+# To switch on/off flying close to the ground
+move.fly.ground.close:false
+
+# To switch on/off flying while colliding with the grond (Relevant only if "move.fly.ground.close" is true)
+move.fly.ground.collide:false
+
+
+# Whether flying control also depends on where the player looks vertically.
+move.fly.control.vertical:true
+
+# Whether diving control also depends on where the player looks vertically.
+move.dive.control.vertical:true
+
+
+# Key name to toggle Smart Moving features in-game (default: "F9")
+move.config.toggle.default.key.name:F9
+
+# Default key name to "grab" (default: "LCONTROL")
+move.grab.default.key.name:LCONTROL
+
+# Default key name to "sprint" (default: "TAB")
+move.sprint.default.key.name:TAB
+
+# Key name to increase the moving speed ingame (default: "O")
+move.speed.increase.default.key.name:O
+
+# Key name to decrease the moving speed ingame (default: "I")
+move.speed.decrease.default.key.name:I
+
+
+
+
+# =====================================================================
+# Message Management
+# ------------------
+# Below you find the options to define in which case Smart Moving
+# should write messages about its current behavior to the ingame chat
+# =====================================================================
+
+# To switch on/off option status messages via chat system
+move.config.chat:true
+
+# To switch on/off the initial option status message when starting a game (Relevant only if "move.config.chat" is not false)
+move.config.chat.init:true
+
+# To switch on/off the initial option help message (Relevant only if "move.config.chat.init" is not false and no improved keybinding GUI (Minecraft Forge or the Macros/Keybind mod) is installed)
+move.config.chat.init.help:true
+
+# To switch on/off the server config overridden status message when joining a multiplayer game (Relevant only if "move.config.chat" is not false)
+move.config.chat.server:true
+
+
+# To switch on/off speed messages via chat system
+move.speed.chat:true
+
+# To switch on/off the intial speed message when starting a game (Relevant only if "move.speed.chat" is not false)
+move.speed.chat.init:true
+
+# To switch on/off the initial speed help message (Relevant only if "move.speed.chat.init" is not false and no improved keybinding GUI (Minecraft Forge or the Macros/Keybind mod) is installed))
+move.speed.chat.init.help:true
+
+# To switch on/off the server speed change message when joining a multiplayer game (Relevant only if "move.speed.chat" is not false)
+move.config.chat.server:true

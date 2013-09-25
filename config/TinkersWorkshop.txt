@@ -5,21 +5,40 @@
 ####################
 
 block {
+    I:Aggregator=1470
+    I:"Birch Barricade"=1483
+    I:"Clear Glass"=1469
+    I:"Clear Stained Glass"=1468
+    I:"Clear Stained Glass Pane"=1467
+    I:"Drying Rack"=1466
+    I:"Glass Pane"=1465
     I:"Held Item Block"=1472
+    I:"Jungle Barricade"=1487
+    I:Landmine=1456
     I:"Lava Tank"=1473
+    I:"Light Crystal"=1455
     I:"Liquid Metal Flowing"=1479
     I:"Liquid Metal Still"=1480
     I:"Metal Storage"=1493
     I:"Multi Brick"=1481
+    I:"Multi Brick Fancy"=1457
+    I:"Oak Barricade"=1458
     I:"Ore Berry One"=1485
     I:"Ore Berry Two"=1486
     I:"Ores Gravel"=1488
     I:"Ores Slag"=1490
+    I:Punji=1464
+    I:"Redstone Machines"=1463
+    I:"Seared Slab"=1462
     I:"Seared Table"=1492
     I:Smeltery=1474
     I:"Special Soil"=1491
     I:"Speed Block"=1489
+    I:"Speed Slab"=1461
+    I:"Spruce Barricade"=1482
+    I:"Stained Glass"=1460
     I:"Stone Torch"=1484
+    I:"Tool Forge"=1459
     I:"Wood Tool Station"=1471
 }
 
@@ -29,13 +48,28 @@ block {
 ####################
 
 "difficulty changes" {
+    B:"Craft Stencil Tables"=true
+    B:"Craft metals with Wood Patterns"=false
+    B:"Craft vanilla metal blocks"=true
+    B:"Deny creation of non-metal mattocks"=false
+    B:"Enable Auto-Smelt and Fortune interaction"=true
+    B:"Enable mod blue slime tools"=true
     B:"Enable mod bone tools"=true
     B:"Enable mod cactus tools"=true
+    B:"Enable mod flint tools"=true
+    B:"Enable mod netherrack tools"=true
+    B:"Enable mod paper tools"=true
+    B:"Enable mod slime tools"=true
     B:"Enable mod stone tools"=true
     B:"Enable mod wooden tools"=true
     B:"Keep hunger on death"=true
     B:"Keep levels on death"=true
+    B:"Lower bronze output to 2 ingots"=false
+    B:"Modifiers increase Mining Level"=true
     B:"Remove Overworld void fog"=true
+    B:"Remove Vanilla GregTech Nerfs"=true
+    B:"Remove Vanilla Tool Recipes"=false
+    B:"Spawn beginner book"=true
     B:"Turn water clear"=true
 }
 
@@ -45,8 +79,13 @@ block {
 ####################
 
 equipables {
+    I:Gloves=14111
     I:"Heart Canister"=14105
+    I:"Heavy Boots"=14110
+    I:"Heavy Chestplate"=14108
     I:"Heavy Helmet"=14106
+    I:"Heavy Pants"=14109
+    I:Knapsack=14112
 }
 
 
@@ -78,6 +117,8 @@ general {
 "patterns and misc" {
     I:"Blank Patterns"=14019
     I:Buckets=14101
+    I:"Golden Head"=14113
+    I:"Jeweled Apple"=14107
     I:Materials=14020
     I:"Metal Pattern"=14024
     I:"Ore Chunks"=14104
@@ -104,20 +145,31 @@ superfun {
 ####################
 
 "tool parts" {
+    I:Arrowhead=14049
     I:"Axe Head"=14028
+    I:Bowstring=14048
     I:"Chisel Head"=14039
     I:Crossbar=14033
+    I:"Excavator Head"=14045
+    I:Fletching=14050
     I:"Frypan Head"=14035
+    I:"Full Guard"=14047
+    I:"Hammer Head"=14046
     I:"Hoe Head"=14029
     I:"Knife Blade"=14038
     I:"Large Guard"=14031
+    I:"Large Plate"=14044
+    I:"Large Sword Blade"=14043
     I:"Lumber Axe Head"=14037
     I:"Medium Guard"=14032
     I:"Pickaxe Head"=14026
+    I:"Scythe Head"=14040
     I:"Shovel Head"=14027
     I:"Sign Head"=14036
     I:"Sword Blade"=14030
     I:"Tool Binding"=14034
+    I:"Tough Binding"=14041
+    I:"Tough Rod"=14042
 }
 
 
@@ -126,12 +178,18 @@ superfun {
 ####################
 
 tools {
+    I:Arrow=14073
     I:Axe=14053
+    I:Battleaxe=14071
     I:Battlesign=14059
     I:Broadsword=14055
     I:Chisel=14066
+    I:Cleaver=14068
+    I:Cutlass=14072
     I:Dagger=14065
+    I:Excavator=14069
     I:"Frying Pan"=14058
+    I:Hammer=14070
     I:Hoe=14054
     I:Longbow=14062
     I:Longsword=14056
@@ -140,8 +198,25 @@ tools {
     I:Pickaxe=14051
     I:"Potion Launcher"=14064
     I:Rapier=14057
+    I:Scythe=14067
     I:Shortbow=14063
     I:Shovel=14052
+}
+
+
+####################
+# ultra hardcore changes
+####################
+
+"ultra hardcore changes" {
+    B:"Add Patterns to Pattern Chests"=false
+    B:"Add World Border"=false
+    B:"Change Crafting Recipes"=false
+    B:"Change Ghast drops to Gold Ingots"=false
+    B:"Necrotic modifier only heals on hostile mob kills"=false
+    B:"Passive Health Regen"=true
+    B:"Players drop heads on death"=false
+    I:"World Border Radius"=1000
 }
 
 
@@ -167,6 +242,7 @@ worldgen {
     I:"Copper Underground Density"=1
     I:"Copper Underground Max Y"=60
     I:"Copper Underground Min Y"=20
+    I:"Essence Bush Rarity"=6
     I:"Gold Bush Density"=1
     I:"Gold Bush Rarity"=4
     I:"Gold Surface Rarity"=500
@@ -198,6 +274,7 @@ worldgen {
     B:"Generate Cobalt and Ardite"=true
     B:"Generate Copper"=false
     B:"Generate Copper Bushes"=true
+    B:"Generate Essence Bushes"=true
     B:"Generate Gold Bushes"=true
     B:"Generate Iron Bushes"=true
     B:"Generate Silver Bushes"=true

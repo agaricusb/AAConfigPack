@@ -33,14 +33,19 @@ settings:
   bungee-proxies:
   - 127.0.0.1
   texture-resolution: 16
+  metrics-enable: true
 mcpc:
-  connection-logging: false
+  connection-logging: true
   dump-materials: false
   world-leak-debug: false
   infinite-water-source: true
   flowing-lava-decay: true
-  load-chunk-on-request: true
-  warn-place-no-tile-entity: true
+  load-chunk-on-request: false
+  warn-place-no-tile-entity: false
+  banned-item-IDs: []
+  enable-banned-items: false
+  player-speed-max:
+    land: -1
   fake-players:
     com/eloraam/redpower/machine/EntityPlayerFake:
       username: '[RedPower]'
@@ -76,6 +81,150 @@ mcpc:
     world_twilightforest: dim7
   simulate-block-place-event-IDs: []
   simulate-block-place-event-default: false
+  loglevels:
+    Minecraft-Server: INFO
+    MinecraftForge: INFO
+    ForgeModLoader: INFO
+    ExtraUtilities: INFO
+    mcp: INFO
+    FML: INFO
+    Forge: INFO
+    CoFHFramework: INFO
+    PowerCrystalsCore: INFO
+    CoFHCore: INFO
+    CoFHWorld: INFO
+    AdvancedSolarPanel: INFO
+    BiblioCraft: INFO
+    BiomesOPlenty: INFO
+    ChargePads: INFO
+    CCTurtle: INFO
+    ComputerCraft: INFO
+    DartCraft: INFO
+    EE3: INFO
+    GraviSuite: INFO
+    GraviGun: INFO
+    IC2NuclearControl: INFO
+    MineFactoryReloaded: INFO
+    MineFactoryReloaded|CompatAppliedEnergistics: INFO
+    MineFactoryReloaded|CompatAtum: INFO
+    MineFactoryReloaded|CompatBackTools: INFO
+    MineFactoryReloaded|CompatBiomesOPlenty: INFO
+    MineFactoryReloaded|CompatChococraft: INFO
+    MineFactoryReloaded|CompatExtraBiomes: INFO
+    MineFactoryReloaded|CompatForestry: INFO
+    MineFactoryReloaded|CompatForestryPre: INFO
+    MineFactoryReloaded|CompatIC2: INFO
+    MineFactoryReloaded|CompatMagicalCrops: INFO
+    MineFactoryReloaded|CompatMystcraft: INFO
+    MineFactoryReloaded|CompatPams: INFO
+    MineFactoryReloaded|CompatRP2: INFO
+    MineFactoryReloaded|CompatSoulShards: INFO
+    MineFactoryReloaded|CompatSufficientBiomes: INFO
+    MFReloaded|CompatThaumcraft: INFO
+    MineFactoryReloaded|CompatThermalExpansion: INFO
+    MineFactoryReloaded|CompatTwilightForest: INFO
+    MineFactoryReloaded|CompatVanilla: INFO
+    MineFactoryReloaded|CompatXyCraft: INFO
+    ModularForceFieldSystem: INFO
+    mmmPowersuits: INFO
+    NetherOres: INFO
+    OmniTools: INFO
+    PortalGun: INFO
+    PowerConverters: INFO
+    Railcraft: INFO
+    SoulShards: INFO
+    StevesCarts: INFO
+    TConstruct|CompatMineFactoryReloaded: INFO
+    TConstruct: INFO
+    Thaumcraft: INFO
+    ThermalExpansion: INFO
+    AppliedEnergistics: INFO
+    BuildCraft|Builders: INFO
+    BuildCraft|Core: INFO
+    BuildCraft|Energy: INFO
+    BuildCraft|Factory: INFO
+    BuildCraft|Silicon: INFO
+    BuildCraft|Transport: INFO
+    CompactSolars: INFO
+    Forestry: INFO
+    iChunUtil: INFO
+    IC2: INFO
+    IronChest: INFO
+    Mystcraft: INFO
+    ObsidiPlates: INFO
+    TwilightForest: INFO
+    Buildcraft: INFO
+    fml-ItemTracker: INFO
+    Minecraft: INFO
+    DimDoors: INFO
+    GregTech_Addon: INFO
+    fml-ModTracker: INFO
+    ForgottenNature: INFO
+    ImmibisMicroblocks: INFO
+    ImmibisMicroblocksInstallCheck: INFO
+    AdvancedMachines: INFO
+    DimensionalAnchors: INFO
+    ImmibisCore: INFO
+    InfiniTubes: INFO
+    LiquidXP: INFO
+    Tubestuff: INFO
+    keepMyStats: INFO
+    HighlightTips: INFO
+    inventorytweaks: INFO
+    MiscConfiguration: INFO
+    TrailMix: INFO
+    bau5_ProjectBench: INFO
+    com-google-common-eventbus-EventBus-HighlightTips: INFO
+    com-google-common-eventbus-EventBus-IC2NuclearControl: INFO
+    multiworld-MultiWorldPlugin: INFO
+    de-dustplanet-silkspawners-SilkSpawners: INFO
+    com-sk89q-worldedit-bukkit-WorldEditPlugin: INFO
+    net-shotbow-interestingfish-InterestingFish: INFO
+    com-lishid-openinv-OpenInv: INFO
+    me-dsh105-enchantmore-EnchantMore: INFO
+    agaricus-plugins-IncompatiblePlugin-SamplePlugin: INFO
+    autosaveworld-AutoSaveWorld: INFO
+    com-earth2me-essentials-Essentials: INFO
+    com-earth2me-essentials-protect-EssentialsProtect: INFO
+    com-earth2me-essentials-spawn-EssentialsSpawn: INFO
+    org-kitteh-vanish-VanishPlugin: INFO
+    com-earth2me-essentials-chat-EssentialsChat: INFO
+    Minecraft-multiworld: INFO
+    com-sk89q-wepif-PermissionsResolverManager: INFO
+    Minecraft-WorldEdit: INFO
+    ExtrabiomesXL: INFO
+    jammyfurniture: INFO
+    CustomSpawner: INFO
+    MoCreatures: INFO
+    RancraftPenguins: INFO
+    mod_AnimalBikes: INFO
+    ElementalCreepers: INFO
+    weaponmod: INFO
+    Netherrocks: INFO
+    secretroomsmod: INFO
+    EasyCrafting: INFO
+    Torched: INFO
+    barrels: INFO
+    GalacticraftCore: INFO
+    Galacticraft: INFO
+    PetBat: INFO
+    UsefulFood: INFO
+    AS_Ruins: INFO
+    AS_UpdateCheck: INFO
+    LavaMonsters: INFO
+    craftguide: INFO
+    LegendaryBeasts: INFO
+    Dynmap: INFO
+    camping: INFO
+    mod_SmartMoving: INFO
+    mod_SmartRender: INFO
+    BinnieCore: INFO
+    ExtraBees: INFO
+    ExtraTrees: INFO
+    extrabees: INFO
+    mod_bspkrsCore: INFO
+    bspkrsCore: INFO
+    FlansMod: INFO
 world-settings:
   default:
     growth-chunks-per-tick: 650
@@ -143,6 +292,10 @@ world-settings:
     worldgen-ExtrabiomesXL-OilGenerator: true
     worldgen-Forestry-ModuleGeneration: true
     worldgen-GregTechAddon-GT_Worldgenerator: true
+    worldgen-DimDoors-RiftGenerator: true
+    keeploaded-environment-gccorespacestation: false
+    worldgen-BinnieCore-ModuleGeneration: true
+    worldgen-MagicBees-WorldGeneratorHandler: true
   world:
     growth-chunks-per-tick: 1000
   world_nether:
@@ -162,6 +315,8 @@ ticks-per:
   animal-spawns: 400
   monster-spawns: 1
   autosave: 0
+  hopper-transfer: 8
+  hopper-check: 8
 auto-updater:
   enabled: true
   on-broken:
