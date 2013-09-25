@@ -1,7 +1,7 @@
 # See documentation at http://dev.bukkit.org/server-mods/silkspawners/pages/configuration
  
 # Should the plugin automatically update if an update is available?
-autoUpdater: true
+autoUpdater: false
  
 # Should permissions be used
 usePermissions: false
