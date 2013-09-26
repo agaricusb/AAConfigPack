@@ -1,24 +1,41 @@
 # Configuration file
 
 ####################
+# alpha behavior
+####################
+
+"alpha behavior" {
+    B:"Regenerate HP from food"=false
+    B:"Remove hunger"=false
+}
+
+
+####################
 # block
 ####################
 
 block {
     I:Aggregator=1470
     I:"Birch Barricade"=1483
+    I:"Casting Channel"=1454
     I:"Clear Glass"=1469
     I:"Clear Stained Glass"=1468
     I:"Clear Stained Glass Pane"=1467
+    I:"Congealed Slime"=1453
+    I:"Crafting Slab"=1452
+    I:"Crafting Station"=1451
     I:"Drying Rack"=1466
+    I:"Essence Extractor"=1450
     I:"Glass Pane"=1465
     I:"Held Item Block"=1472
     I:"Jungle Barricade"=1487
     I:Landmine=1456
     I:"Lava Tank"=1473
     I:"Light Crystal"=1455
+    I:"Liquid Blue Slime"=1449
     I:"Liquid Metal Flowing"=1479
     I:"Liquid Metal Still"=1480
+    I:"Meat Block"=1448
     I:"Metal Storage"=1493
     I:"Multi Brick"=1481
     I:"Multi Brick Fancy"=1457
@@ -31,6 +48,10 @@ block {
     I:"Redstone Machines"=1463
     I:"Seared Slab"=1462
     I:"Seared Table"=1492
+    I:"Slime Grass"=1447
+    I:"Slime Grass Leaves"=1446
+    I:"Slime Tall Grass"=1445
+    I:"Slime Tree Sapling"=1444
     I:Smeltery=1474
     I:"Special Soil"=1491
     I:"Speed Block"=1489
@@ -40,6 +61,8 @@ block {
     I:"Stone Torch"=1484
     I:"Tool Forge"=1459
     I:"Wood Tool Station"=1471
+    I:"Wool Slab 1"=1443
+    I:"Wool Slab 2"=1442
 }
 
 
@@ -117,6 +140,7 @@ general {
 "patterns and misc" {
     I:"Blank Patterns"=14019
     I:Buckets=14101
+    I:"Essence Crystal"=14114
     I:"Golden Head"=14113
     I:"Jeweled Apple"=14107
     I:Materials=14020
@@ -209,8 +233,11 @@ tools {
 ####################
 
 "ultra hardcore changes" {
+    # Gives all tier 1 patterns when pattern chest is placed
     B:"Add Patterns to Pattern Chests"=false
     B:"Add World Border"=false
+
+    # Makes recipes for gold apples, carrots, and melon potions more expensive
     B:"Change Crafting Recipes"=false
     B:"Change Ghast drops to Gold Ingots"=false
     B:"Necrotic modifier only heals on hostile mob kills"=false
@@ -238,7 +265,11 @@ worldgen {
     I:"Copper Bush Max Y"=60
     I:"Copper Bush Min Y"=20
     I:"Copper Bush Rarity"=1
+
+    # Rarity: 1/num to generate in chunk
     I:"Copper Surface Rarity"=80
+
+    # Density: Chances per chunk
     I:"Copper Underground Density"=1
     I:"Copper Underground Max Y"=60
     I:"Copper Underground Min Y"=20
@@ -252,6 +283,7 @@ worldgen {
     I:"Nether Ores Density"=8
     I:"Silver Bush Density"=1
     I:"Silver Bush Rarity"=2
+    I:"Slime Island Rarity"=450
     I:"Tin Bush Density"=2
     I:"Tin Bush Max Y"=40
     I:"Tin Bush Min Y"=0

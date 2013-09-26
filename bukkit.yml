@@ -296,6 +296,7 @@ world-settings:
     keeploaded-environment-gccorespacestation: false
     worldgen-BinnieCore-ModuleGeneration: true
     worldgen-MagicBees-WorldGeneratorHandler: true
+    worldgen-TConstruct-SlimeIslandGen: true
   world:
     growth-chunks-per-tick: 1000
   world_nether:
