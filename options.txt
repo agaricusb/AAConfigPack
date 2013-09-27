@@ -1,5 +1,5 @@
 music:0.0
-sound:0.0
+sound:0.8380282
 invertYMouse:false
 mouseSensitivity:0.5
 fov:1.0
@@ -15,7 +15,7 @@ difficulty:2
 fancyGraphics:false
 ao:2
 clouds:true
-skin:Sphax PureBDcraft  64x MC15.zip
+skin:(Modded) Sphax PureBDcraft  64x MC15.zip
 lastServer:107.3.130.59
 lang:en_US
 chatVisibility:0
@@ -58,7 +58,7 @@ key_key.chat:20
 key_key.playerlist:38
 key_key.pickItem:-98
 key_key.command:53
-key_key.armor:23
+key_key.tarmor:24
 key_ALT Key:56
 key_Boost Key:48
 key_Mode Switch Key:50
@@ -68,22 +68,30 @@ key_MoCreatures Dismount:33
 key_MoCreatures GUI:66
 key_Gravi Fly Key:33
 key_Open CraftGuide:34
-key_Highlight Tips:62
-key_camping.craftKey:46
-key_camping.backpackKey:36
+key_Clipboard:46
+key_Ender Pack:45
+key_Force Belt:44
+key_Force Belt Slot 1:79
+key_Force Belt Slot 2:80
+key_Force Belt Slot 3:81
+key_Force Belt Slot 4:75
+key_Force Belt Slot 5:76
+key_Force Belt Slot 6:77
+key_Force Belt Slot 7:71
+key_Force Belt Slot 8:72
 key_key.extra:46
 key_key.charge:47
 key_key.toggle:22
 key_key.release:39
-key_[GC] Galaxy Map:65
-key_[GC] Open Spaceship Inventory:33
-key_[GC] Toggle Sensor Goggles Mode:13
-key_[GC] Vehicle Forward Key:17
-key_[GC] Vehicle Backward Key:31
-key_[GC] Vehicle Left Key:30
-key_[GC] Vehicle Right Key:32
-key_[GC] Vehicle Up Key:57
-key_[GC] Vehicle Down Key:42
+key_Highlight Tips:62
+key_camping.craftKey:46
+key_camping.backpackKey:36
+key_Open MPS Keybind GUI:37
+key_Go Down (MPS Flight Control):44
+key_Cycle Tool Backward (MPS):-1
+key_Cycle Tool Forward (MPS):-1
+key_Zoom (MPS):21
+key_Cosmetic (MPS):38
 key_Accelerate Key:17
 key_Decelerate Key:31
 key_Left Key:30
@@ -95,12 +103,26 @@ key_Inventory key:19
 key_Bomb Key:47
 key_Gun Key:29
 key_Control Switch key:46
+key_Roll Left Key:43
+key_Roll Right Key:45
+key_Change Gear Status Key:38
+key_Change Door Status Key:37
+key_Change Wing Position Key:36
+key_Trim Key:24
+key_Park Key:25
 key_Teams Menu Key:64
 key_Teams Scores Key:35
-key_Open Muse Keybind GUI:37
-key_Go Down (Flight Control):44
-key_Cycle Tool Backward:-1
-key_Cycle Tool Forward:-1
-key_Zoom (MPS):21
-key_Change OneWayBlock face:43
 key_Show force-loaded chunks:67
+key_[GC] Galaxy Map:65
+key_[GC] Open Spaceship Inventory:33
+key_[GC] Toggle Sensor Goggles Mode:13
+key_[GC] Vehicle Forward Key:17
+key_[GC] Vehicle Backward Key:31
+key_[GC] Vehicle Left Key:30
+key_[GC] Vehicle Right Key:32
+key_[GC] Vehicle Up Key:57
+key_[GC] Vehicle Down Key:42
+key_keybind.loco.faster:52
+key_keybind.loco.slower:51
+key_keybind.loco.mode:50
+key_keybind.loco.whistle:49
