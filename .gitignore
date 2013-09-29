@@ -7,8 +7,10 @@
 0config
 0mods
 0plugins
+plugins/contrib
 Flan
 *.log
+*.log.*
 banned-ips.txt
 banned-players.txt
 crash-reports
@@ -24,3 +26,10 @@ world_nether
 world_the_end
 world_twilightforest
 lib
+saves
+servers.dat
+teams.dat
+texturepacks
+resources
+stats
+bin
