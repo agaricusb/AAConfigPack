@@ -1,0 +1,433 @@
+# EnchantMore - Extending Beyond Enchanted Items...
+# Original Plugin By mushroomhostage. Version 2.0 And After By DSH105
+defaultEnabled: true
+verboseLogger: false
+debugDisabledEffects: true
+disableMsgCooldownTicks: 6000
+moveListener: true
+effects:
+  Axe + Aqua Affinity:
+    enabled: true
+    durationTicksPerLevel: 100
+    amplifier: 1
+  Axe + Flame:
+    enabled: true
+  Axe + Power:
+    enabled: true
+    extraTrunkWidthPerLevel: 1
+  Axe + Respiration:
+    enabled: true
+  Boots + Feather Falling:
+    enabled: true
+    minLevel: 10
+  Boots + Flame:
+    enabled: true
+  Boots + Power:
+    enabled: true
+    yVelocityPerLevel: 1.0
+  Boots + Punch:
+    enabled: true
+    yVelocityPerEnchLevel: 1.0
+  Bow + Aqua Affinity:
+    enabled: true
+    freezeRangePerLevel: 1
+    stunRangePerLevel: 1
+    stunDurationTicksPerLevel: 100
+  Bow + Bane Of Arthropods:
+    enabled: true
+    poisonRangePerLevel: 1.0
+    poisonDurationTicksPerLevel: 100
+  Bow + Efficiency:
+    enable: true
+  Bow + Feather Falling:
+    enable: true
+    minLevelGrappleHook: 2
+    grappleHangOnTicks: 200
+  Bow + Fire Aspect:
+    enable: true
+    powerPerLevel: 1.0
+  Bow + Knockback:
+    enable: true
+  Bow + Looting:
+    enable: true
+  Bow + Respiration:
+    enable: true
+    payloads:
+      allowSpawnEgg: true
+      allowDoubleArrow: true
+      allowSnowball: true
+      allowEgg: true
+      allowTNT: true
+      allowWaterBucket: true
+      allowLavaBucket: true
+      allowSplashPotion: true
+      allowBlock: true
+      allowItem: true
+  Bow + Sharpness:
+    enable: true
+    velocityPerLevel: 2.0
+  Bow + Silk Touch:
+    enable: true
+    allowProjectiles: true
+    allowLivingEntities: true
+  Bow + Smite:
+    enable: true
+  Chestplate + Infinity:
+    enable: true
+  Chestplate + Knockback:
+    enable: true
+  Chestplate + Punch:
+    enable: true
+    damagePerLevel: 5
+  Chestplate + Respiration:
+    enable: true
+  Chestplate + Sharpness:
+    enable: true
+  Chestplate + Silk Touch:
+    enable: true
+  Fishing Rod + Efficiency:
+    enable: true
+  Fishing Rod + Fire Aspect:
+    enable: true
+  Fishing Rod + Flame:
+    enable: true
+  Fishing Rod + Fortune:
+    enable: true
+  Fishing Rod + Looting:
+    enable: true
+  Fishing Rod + Sharpness:
+    enable: true
+    damagePerLevel: 10
+  Fishing Rod + Silk Touch:
+    enable: true
+  Fishing Rod + Smite:
+    enable: true
+  Flint & Steel + Aqua Affinity:
+    enable: true
+    shape: square
+    effect: smoke
+  Flint & Steel + Blast Protection:
+    enable: true
+  Flint & Steel + Efficiency:
+    enable: true
+  Flint & Steel + Fire Aspect:
+    enable: true
+  Flint & Steel + Fire Protection:
+    enable: true
+  Flint & Steel + Punch:
+    enable: true
+    particleEffect: true
+  Flint & Steel + Respiration:
+    enable: true
+  Flint & Steel + Sharpness:
+    enable: true
+    fireworkEffect: false
+    fwCharacteristics: trail:white:aqua:small
+  Flint & Steel + Silk Touch:
+    enable: true
+  Flint & Steel + Smite:
+    enable: true
+  Helmet + Fire Aspect:
+    enable: true
+  Hoe + Aqua Affinity:
+    enable: true
+  Hoe + Bane of Arthropods:
+    enable: true
+  Hoe + Efficiency:
+    enable: true
+  Hoe + Fire Protection:
+    enable: true
+  Hoe + Fortune:
+    enable: true
+    chanceDropSeeds: 2
+    dropRollMax: 4
+    drops:
+      '0': seeds
+      '1': seeds
+      '2': melon_seeds
+      '3': pumpkin_seeds
+  Hoe + Knockback:
+    enable: true
+    yPerLevel: 1.0
+  Hoe + Power:
+    enable: true
+  Hoe + Punch:
+    enable: true
+  Hoe + Respiration:
+    enable: true
+  Hoe + Silk Touch:
+    enable: true
+  Leggings + Feather Falling:
+    enable: true
+  Leggings + Knockback:
+    enable: true
+    damagePerLevel: 5
+  Leggings + Punch:
+    enable: true
+  Pickaxe + Flame:
+    enable: true
+  Pickaxe + Looting:
+    enable: true
+  Pickaxe + Power:
+    enable: true
+    breakBedrock: false
+  Pickaxe + Sharpness:
+    enable: true
+    rangePerLevel: 5
+    ores:
+      14;0: true
+      15;0: true
+      16;0: true
+      21;0: true
+      56;0: true
+      73;0: true
+      74;0: true
+      125;0: true
+      127;0: true
+      130;0: true
+      132;0: true
+      134;0: true
+      138;0: true
+      140;0: true
+      140;1: true
+      140;2: true
+      140;3: true
+      140;4: true
+      140;5: true
+      140;6: true
+      140;7: true
+      143;0: true
+      145;0: true
+      146;0: true
+      247;0: true
+      248;0: true
+      249;0: true
+      247;32766: true
+      248;32766: true
+      249;32766: true
+  Pickaxe + Silk Touch:
+    enable: true
+    minLevel: 2
+    harvestIce: true
+    sublimateIce: false
+    harvestDoubleSlabs: true
+    placeDoubleSlabs: true
+    harvestSilverfishBlocks: true
+    placeSilverfishBlocks: true
+    minLevelCrystal: 3
+    spawnEggCrystal: true
+  Shears + Bane of Arthropods:
+    enable: true
+  Shears + Fortune:
+    enable: true
+  Shears + Looting:
+    enable: true
+  Shears + Power:
+    enable: true
+    shape: square
+  Shears + Silk Touch:
+    enable: true
+  Shears + Smite:
+    enable: true
+  Shovel + Flame:
+    enable: true
+  Shovel + Power:
+    enable: true
+  Shovel + Silk Touch:
+    enable: true
+    minLevel: 2
+  Sword + Blast Protection:
+    enable: true
+  Sword + Feather Falling:
+    enable: true
+    yVelocityPerLevel: 0.5
+  Sword + Fire Protection:
+    enable: true
+  Sword + Fortune:
+    enable: true
+    maxLevel: 10
+  Sword + Infinity:
+    enable: true
+    durationPerLevelTicks: 40
+  Sword + Power:
+    enable: true
+    rangePerLevel: 100
+  Sword + Protection:
+    enable: true
+  Sword + Punch:
+    enable: true
+    maxLevel: 10
+    uses: 30
+  Sword + Respiration:
+    enable: true
+    kickLevel: 1
+    kickMessage: Kicked by a Sword with a Respiration Enchantment by %s
+    banLevel: 2
+    banCommand: ban %s
+    banTicksPerLevel: 200
+    pardonCommand: pardon %s
+  Sword + Silk Touch:
+    enable: true
+enchantmentIDs:
+  Protection: 0
+  Fire Protection: 1
+  Feather Falling: 2
+  Blast Protection: 3
+  Projectile Protection: 4
+  Respiration: 5
+  Aqua Affinity: 6
+  Thorns: 7
+  Sharpness: 16
+  Smite: 17
+  Bane of Arthropods: 18
+  Knockback: 19
+  Fire Aspect: 20
+  Looting: 21
+  Efficiency: 32
+  Silk Touch: 33
+  Unbreaking: 34
+  Fortune: 35
+  Power: 48
+  Punch: 49
+  Flame: 50
+  Infinity: 51
+items:
+  Pickaxe:
+  - diamond_pickaxe
+  - gold_pickaxe
+  - iron_pickaxe
+  - stone_pickaxe
+  - wood_pickaxe
+  - '1051'
+  - '1281'
+  - '1282'
+  - '1283'
+  - '3714'
+  - '13261'
+  - '21259'
+  - '21273'
+  - '21289'
+  - '21301'
+  - '21313'
+  - '21325'
+  - '30200'
+  Hoe:
+  - diamond_hoe
+  - gold_hoe
+  - iron_hoe
+  - stone_hoe
+  - wood_hoe
+  - '1287'
+  - '1288'
+  - '1289'
+  - '3717'
+  - '21262'
+  - '21276'
+  - '21292'
+  - '21304'
+  - '21328'
+  - '21316'
+  - '30119'
+  - '30196'
+  Sword:
+  - diamond_sword
+  - gold_sword
+  - iron_sword
+  - stone_sword
+  - wood_sword
+  - '1275'
+  - '1276'
+  - '1277'
+  - '3718'
+  - '21263'
+  - '21277'
+  - '21293'
+  - '21305'
+  - '21317'
+  - '21329'
+  - '30148'
+  - '30149'
+  - '30198'
+  Shovel:
+  - diamond_spade
+  - gold_spade
+  - iron_spade
+  - stone_spade
+  - wood_spade
+  - '1050'
+  - '1279'
+  - '1280'
+  - '1278'
+  - '3715'
+  - '13264'
+  - '21260'
+  - '21274'
+  - '21290'
+  - '21302'
+  - '21314'
+  - '21326'
+  Axe:
+  - diamond_axe
+  - gold_axe
+  - iron_axe
+  - stone_axe
+  - wood_axe
+  - '1052'
+  - '1284'
+  - '1285'
+  - '1286'
+  - '3716'
+  - '21261'
+  - '21275'
+  - '21291'
+  - '21303'
+  - '21315'
+  - '21327'
+  - '30199'
+  Farmblock:
+  - soil
+  - crops
+  - sugar_cane_block
+  - cake_block
+  - pumpkin_stem
+  - melon_stem
+  - nether_warts
+  Excavatable:
+  - dirt
+  - grass
+  - gravel
+  - sand
+  - soul_sand
+  - netherrack
+  WoodenBlock:
+  - wood
+  - wood_plate
+  - wood_stairs
+  - wooden_door
+  - log
+  - step;2
+  - double_step;2
+  Helmet:
+  - chainmail_helmet
+  - diamond_helmet
+  - gold_helmet
+  - iron_helmet
+  - leather_helmet
+  Chestplate:
+  - chainmail_chestplate
+  - diamond_chestplate
+  - gold_chestplate
+  - iron_chestplate
+  - leather_chestplate
+  Leggings:
+  - chainmail_leggings
+  - diamond_leggings
+  - gold_leggings
+  - iron_leggings
+  - leather_leggings
+  Boots:
+  - chainmail_boots
+  - diamond_boots
+  - gold_boots
+  - iron_boots
+  - leather_boots
