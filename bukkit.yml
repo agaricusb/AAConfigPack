@@ -297,6 +297,7 @@ world-settings:
     worldgen-BinnieCore-ModuleGeneration: true
     worldgen-MagicBees-WorldGeneratorHandler: true
     worldgen-TConstruct-SlimeIslandGen: true
+    worldgen-MinemaartenChessMod-WorldGeneratorChessMod: true
   world:
     growth-chunks-per-tick: 1000
   world_nether:
