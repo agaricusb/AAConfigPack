@@ -298,6 +298,7 @@ world-settings:
     worldgen-MagicBees-WorldGeneratorHandler: true
     worldgen-TConstruct-SlimeIslandGen: true
     worldgen-MinemaartenChessMod-WorldGeneratorChessMod: true
+    keeploaded-environment-atum: true
   world:
     growth-chunks-per-tick: 1000
   world_nether:
